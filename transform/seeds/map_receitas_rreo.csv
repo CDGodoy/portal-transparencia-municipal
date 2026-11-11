@@ -1,0 +1,15 @@
+cod_conta,categoria,grupo,ordem
+Impostos,"Impostos (IPTU, ISS, ITBI, IRRF)",propria,1
+Taxas,Taxas,propria,2
+ReceitaDeContribuicoes,Contribuições (previdência e iluminação),propria,3
+ReceitaPatrimonial,Rendimentos e receita patrimonial,propria,4
+TransferenciasCorrentesDaUniaoEDeSuasEntidades,"Transferências da União (FPM, SUS e outras)",transferencia,5
+TransferenciasDeCapitalDaUniaoEDeSuasEntidades,"Transferências da União (FPM, SUS e outras)",transferencia,5
+TransferenciasCorrentesDosEstadosEDoDistritoFederalEDeSuasEntidades,"Transferências do Estado (ICMS, IPVA e outras)",transferencia,6
+TransferenciasDeCapitalDosEstadosEDoDistritoFederalEDeSuasEntidades,"Transferências do Estado (ICMS, IPVA e outras)",transferencia,6
+TransferenciasCorrentesDeOutrasInstituicoesPublicas,FUNDEB e outras instituições públicas,transferencia,7
+TransferenciasCorrentesIntergovernamentais,Transferências intergovernamentais (layout até 2017),transferencia,8
+TransferenciasDeCapitalIntergovernamentais,Transferências intergovernamentais (layout até 2017),transferencia,8
+TransferenciasCorrentesDeConvenios,Convênios,transferencia,9
+TransferenciasDeCapitalDeConvenios,Convênios,transferencia,9
+ReceitasDeOperacoesDeCredito,Operações de crédito (empréstimos),credito,10

@@ -1,0 +1,27 @@
+version: 2
+
+models:
+  - name: int_rreo__anexo01
+    description: "Anexo 01 no bimestre vigente de cada ano, com colunas normalizadas em medidas."
+    tests:
+      - unique_combination:
+          arguments:
+            columns: [cod_ibge, ano, cod_conta, medida]
+  - name: int_ipca__fatores
+    description: "Fator de correção (IPCA médio do ano → último mês disponível)."
+    columns:
+      - name: ano
+        tests: [unique, not_null]
+      - name: fator_real
+        tests:
+          - not_null
+          - between:
+              arguments: {min_value: 0.9, max_value: 3}
+  - name: int_despesa_funcao__dca
+    description: "Despesa por função/subfunção da DCA, sem o bloco intra-orçamentário."
+    tests:
+      - unique_combination:
+          arguments:
+            columns: [cod_ibge, ano, nivel, funcao_cod, subfuncao_cod]
+  - name: int_despesa_funcao__rreo
+    description: "Despesa por função do RREO Anexo 02 (para anos sem DCA)."

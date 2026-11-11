@@ -1,0 +1,50 @@
+version: 2
+
+models:
+  - name: stg_siconfi__rreo
+    description: "Células do RREO (anexos 01 e 02) como publicadas no SICONFI, tipadas."
+    columns:
+      - name: cod_ibge
+        tests: [not_null]
+      - name: ano
+        tests: [not_null]
+      - name: periodo
+        tests:
+          - not_null
+          - accepted_values:
+              arguments: {values: [1, 2, 3, 4, 5, 6], quote: false}
+      - name: anexo
+        tests:
+          - accepted_values:
+              arguments: {values: ['RREO-Anexo 01', 'RREO-Anexo 02']}
+
+  - name: stg_siconfi__rgf
+    description: "RGF Anexo 01 (despesa com pessoal) do Poder Executivo."
+    columns:
+      - name: periodicidade
+        tests:
+          - accepted_values:
+              arguments: {values: ['Q', 'S']}
+
+  - name: stg_siconfi__dca
+    description: "DCA (balanço anual) — Anexo I-E, despesa por função."
+
+  - name: stg_pncp__contratos
+    description: "Contratos do PNCP deduplicados pela versão mais recente."
+    columns:
+      - name: numero_controle_pncp
+        tests: [unique, not_null]
+      - name: valor_global
+        tests:
+          - between:
+              arguments: {min_value: 0}
+
+  - name: stg_bcb__ipca
+    description: "IPCA mensal (variação) — SGS 433 do Banco Central."
+    columns:
+      - name: mes
+        tests: [unique, not_null]
+      - name: variacao
+        tests:
+          - between:
+              arguments: {min_value: -0.05, max_value: 0.05}

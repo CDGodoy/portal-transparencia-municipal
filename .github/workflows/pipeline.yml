@@ -1,0 +1,97 @@
+name: Pipeline de dados e deploy
+
+# - schedule / manual: ingere dados novos das APIs (incremental), versiona a bronze e publica.
+# - push na main: só reconstrói (dbt + export + site) a partir da bronze versionada e publica.
+on:
+  schedule:
+    - cron: "17 9 * * 1"   # toda segunda, 06:17 em Brasília
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebaixar tudo, ignorando o manifesto incremental"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths-ignore: ["**.md", "docs/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: pip install -e .
+
+      - name: Ingestão (SICONFI, PNCP, BCB)
+        if: github.event_name != 'push'
+        run: portal ingest ${{ inputs.force && '--force' || '' }}
+
+      - name: Versiona a camada bronze
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bronze
+          if git diff --cached --quiet; then
+            echo "Sem dados novos."
+          else
+            git commit -m "dados: atualização automática $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Transformação (dbt build — modelos + testes de qualidade)
+        run: portal transform
+
+      - name: Exporta JSON para o site
+        run: portal export
+
+      - name: Documentação do dbt (linhagem e dicionário)
+        working-directory: transform
+        run: dbt docs generate --static --profiles-dir .
+        env:
+          PORTAL_BRONZE_DIR: ${{ github.workspace }}/data/bronze
+          PORTAL_DUCKDB_PATH: ${{ github.workspace }}/data/warehouse/portal.duckdb
+
+      - name: Build do site
+        working-directory: site
+        env:
+          VITE_BASE: /${{ github.event.repository.name }}/
+          VITE_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+        run: |
+          npm ci
+          npm run build
+          mkdir -p dist/dbt
+          cp ../transform/target/static_index.html dist/dbt/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

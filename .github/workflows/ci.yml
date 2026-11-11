@@ -1,0 +1,55 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths-ignore: ["data/bronze/**"]
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  python:
+    name: Lint, testes e dbt (amostra)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -e ".[dev]"
+      - name: Ruff
+        run: |
+          ruff check src tests
+          ruff format --check src tests
+      - name: Pytest (unitários + ponta a ponta com dbt)
+        run: pytest -v
+
+  site:
+    name: Build do site (dados de amostra)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: pip install -e .
+      - name: Pipeline sobre a bronze de amostra
+        env:
+          PORTAL_BRONZE_DIR: ${{ runner.temp }}/bronze
+          PORTAL_DUCKDB_PATH: ${{ runner.temp }}/portal.duckdb
+        run: |
+          python tests/fixtures/sample_bronze.py "$PORTAL_BRONZE_DIR"
+          portal transform
+          portal export
+      - run: npm ci && npm run build
+        working-directory: site

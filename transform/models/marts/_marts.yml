@@ -1,0 +1,92 @@
+version: 2
+
+models:
+  - name: dim_municipio
+    description: "Municípios monitorados."
+    columns:
+      - name: cod_ibge
+        tests: [unique, not_null]
+
+  - name: fct_execucao_anual
+    description: >
+      Execução orçamentária por município e ano: receita prevista/realizada, despesa
+      autorizada/empenhada/liquidada/paga, em valores nominais e reais (IPCA).
+    tests:
+      - unique_combination:
+          arguments: {columns: [cod_ibge, ano]}
+    columns:
+      - name: cod_ibge
+        tests:
+          - relationships:
+              arguments: {to: ref('dim_municipio'), field: cod_ibge}
+      - name: receita_realizada
+        tests:
+          - not_null
+          - between:
+              arguments: {min_value: 0}
+      - name: despesa_liquidada
+        tests:
+          - not_null
+          - between:
+              arguments: {min_value: 0}
+      - name: fator_real
+        tests: [not_null]
+
+  - name: fct_receita_origem
+    description: "Receita realizada por origem (impostos, transferências…), somando o total."
+    tests:
+      - unique_combination:
+          arguments: {columns: [cod_ibge, ano, categoria]}
+
+  - name: fct_despesa_natureza
+    description: "Despesa por grupo de natureza (pessoal, custeio, investimentos, dívida)."
+    tests:
+      - unique_combination:
+          arguments: {columns: [cod_ibge, ano, grupo_natureza]}
+
+  - name: fct_despesa_funcao
+    description: "Despesa por função de governo e subfunção (DCA ou RREO Anexo 02)."
+    tests:
+      - unique_combination:
+          arguments:
+            columns: [cod_ibge, ano, nivel, funcao_cod, subfuncao_cod]
+    columns:
+      - name: fonte
+        tests:
+          - accepted_values:
+              arguments: {values: ['DCA', 'RREO']}
+      - name: nivel
+        tests:
+          - accepted_values:
+              arguments: {values: ['funcao', 'subfuncao']}
+
+  - name: fct_pessoal_lrf
+    description: "Despesa com pessoal x RCL e limites da LRF."
+    tests:
+      - unique_combination:
+          arguments: {columns: [cod_ibge, ano, periodicidade, periodo]}
+    columns:
+      - name: dtp_pct_rcl
+        tests:
+          - between:
+              arguments: {min_value: 0, max_value: 100}
+
+  - name: fct_contratos
+    description: "Contratos publicados no PNCP."
+    columns:
+      - name: numero_controle_pncp
+        tests: [unique, not_null]
+
+  - name: mart_indicadores
+    description: "Indicadores comparáveis entre municípios."
+    tests:
+      - unique_combination:
+          arguments: {columns: [cod_ibge, ano]}
+
+  - name: mart_qualidade_dados
+    description: "Achados de qualidade de dados publicados no portal."
+    columns:
+      - name: severidade
+        tests:
+          - accepted_values:
+              arguments: {values: ['aviso', 'info']}

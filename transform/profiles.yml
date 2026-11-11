@@ -1,0 +1,7 @@
+portal:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('PORTAL_DUCKDB_PATH', '../data/warehouse/portal.duckdb') }}"
+      threads: 4

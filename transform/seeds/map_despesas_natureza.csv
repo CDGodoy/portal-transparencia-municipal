@@ -1,0 +1,7 @@
+cod_conta,grupo_natureza,ordem
+PessoalEEncargosSociais,Pessoal e encargos,1
+JurosEEncargosDaDivida,Juros da dívida,2
+OutrasDespesasCorrentes,Custeio e serviços,3
+Investimentos,Investimentos (obras e equipamentos),4
+InversoesFinanceiras,Inversões financeiras,5
+AmortizacaoDaDivida,Amortização da dívida,6
