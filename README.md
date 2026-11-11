@@ -14,6 +14,12 @@ Entorno do DF para comparação, usando apenas **dados públicos oficiais**.
 APIs governamentais instáveis, modelagem em camadas, testes de qualidade e publicação automatizada),
 com um front-end leve para mostrar o resultado.
 
+![Resumo do ano — Valparaíso de Goiás](docs/img/resumo.png)
+
+| Para onde vai o dinheiro | Gasto com pessoal × LRF | Comparação com o Entorno do DF |
+|---|---|---|
+| ![Despesas](docs/img/despesas.png) | ![Pessoal](docs/img/pessoal.png) | ![Comparativo](docs/img/comparativo.png) |
+
 ---
 
 ## O que o portal responde
@@ -105,10 +111,17 @@ Os relatórios fiscais mudam de formato ao longo dos anos. Exemplos tratados:
 - **41 testes dbt** (grão único, nulidade, domínios, intervalos, integridade referencial e regras de
   negócio como `pago ≤ liquidado ≤ empenhado`).
 - **`mart_qualidade_dados`**: inconsistências encontradas *nos dados declarados pelas prefeituras*
-  são publicadas no próprio portal, em "Sobre os dados". Exemplos reais encontrados:
-  - RGF de 2016 de Valparaíso declara **limite máximo de 60% da RCL** (o legal é 54%);
-  - em 2024 a previsão de receita atualizada (R$ 1,49 bi) foi o **dobro** do arrecadado (R$ 738 mi);
-  - divergências entre a despesa liquidada no RREO e no balanço anual (DCA).
+  são publicadas no próprio portal, em "Sobre os dados". Alguns achados reais da primeira carga:
+  - o RGF de 2016 de Valparaíso declara **limite máximo de 60% da RCL** (o legal é 54%), e
+    e Cidade Ocidental, Planaltina, Luziânia e Santo Antônio do Descoberto também declaram, em
+    algum ano, limite diferente do legal;
+  - desde 2016 a **previsão de receita atualizada** de Valparaíso é cerca do **dobro** do que é
+    arrecadado (2025: R$ 1,8 bi previstos × R$ 874 mi arrecadados);
+  - Formosa declarou despesa com pessoal de **219% da RCL** em 2026, um valor impossível que é
+    sinalizado em vez de distorcer as comparações;
+  - em 2023 a despesa liquidada de Valparaíso difere **3,1%** entre o RREO e o balanço anual (DCA).
+- Além disso, os dados mostram fatos fiscais relevantes. Em 2018 Valparaíso gastou **54,3% da RCL
+  com pessoal**, acima do limite máximo da LRF, e caiu para 41,2% em 2025.
 
 ### 5. Comparabilidade
 Valores em **reais constantes** (IPCA médio do ano → último mês disponível), **per capita** e em
