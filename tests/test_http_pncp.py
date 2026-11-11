@@ -62,12 +62,18 @@ def test_pncp_janelas_mensais_ate_hoje():
 def test_pncp_nao_rebaixa_mes_encerrado_mas_reconsulta_recente(tmp_path):
     store = BronzeStore(tmp_path)
     for mes in (1, 10):
-        store.write("pncp", "contratos", {"cod_ibge": MUN.cod_ibge, "ano_publicacao": 2026,
-                                          "mes": mes}, [], "u")
+        store.write(
+            "pncp",
+            "contratos",
+            {"cod_ibge": MUN.cod_ibge, "ano_publicacao": 2026, "mes": mes},
+            [],
+            "u",
+        )
     with respx.mock(assert_all_called=False) as router:
         route = router.get(BASE_URL).mock(return_value=httpx.Response(204))
-        ing = PncpIngestor(ApiClient(throttle={}), store, ano_corrente=2026,
-                           hoje=date(2026, 11, 11))
+        ing = PncpIngestor(
+            ApiClient(throttle={}), store, ano_corrente=2026, hoje=date(2026, 11, 11)
+        )
         ing.ingest_mes(MUN, date(2026, 1, 1), date(2026, 1, 31))
         assert route.call_count == 0 and ing.summary["pulados"] == 1
         ing.ingest_mes(MUN, date(2026, 10, 1), date(2026, 10, 31))
@@ -79,8 +85,13 @@ def test_pncp_disjuntor_abre_apos_falhas_seguidas(tmp_path, monkeypatch):
     store = BronzeStore(tmp_path)
     with respx.mock() as router:
         router.get(BASE_URL).mock(return_value=httpx.Response(504))
-        ing = PncpIngestor(ApiClient(throttle={}, max_attempts=1), store, ano_corrente=2026,
-                           max_falhas_seguidas=3, hoje=date(2026, 11, 11))
+        ing = PncpIngestor(
+            ApiClient(throttle={}, max_attempts=1),
+            store,
+            ano_corrente=2026,
+            max_falhas_seguidas=3,
+            hoje=date(2026, 11, 11),
+        )
         with pytest.raises(PncpIndisponivel):
             ing.ingest_municipio_ano(MUN, 2026)
     assert ing.summary["falhas"] == 3
