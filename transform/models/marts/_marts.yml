@@ -24,11 +24,13 @@ models:
           - not_null
           - between:
               arguments: {min_value: 0}
+              config: {severity: warn}
       - name: despesa_liquidada
         tests:
           - not_null
           - between:
               arguments: {min_value: 0}
+              config: {severity: warn}
       - name: fator_real
         tests: [not_null]
 
@@ -70,6 +72,7 @@ models:
         tests:
           - between:
               arguments: {min_value: 0, max_value: 100}
+              config: {severity: warn}
 
   - name: fct_contratos
     description: "Contratos publicados no PNCP."

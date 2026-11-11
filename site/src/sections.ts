@@ -548,7 +548,9 @@ export function sobre(e: Estado): HTMLElement {
           h("ul", { class: "lista" },
             h("li", null, `Dados coletados em ${dataBR(m.ultima_ingestao ?? m.gerado_em)}`),
             h("li", null, `Inflação (IPCA) até ${mesAno(m.ipca_referencia)}`),
-            m.testes ? h("li", null, `${inteiro(m.testes.pass ?? 0)} de ${inteiro(m.testes.total)} testes de qualidade aprovados na última execução`) : null,
+            m.testes
+              ? h("li", null, `${inteiro(m.testes.total)} testes de qualidade na última execução: ${inteiro(m.testes.pass ?? 0)} aprovados${m.testes.warn ? `, ${inteiro(m.testes.warn)} com aviso` : ""}`)
+              : null,
             h("li", null, `Versão do pipeline ${m.versao}`)))),
       h("h3", null, "Como ler os números"),
       h("ul", { class: "lista" },

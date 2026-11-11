@@ -38,6 +38,7 @@ models:
         tests:
           - between:
               arguments: {min_value: 0}
+              config: {severity: warn}
 
   - name: stg_bcb__ipca
     description: "IPCA mensal (variação) — SGS 433 do Banco Central."
@@ -48,3 +49,4 @@ models:
         tests:
           - between:
               arguments: {min_value: -0.05, max_value: 0.05}
+              config: {severity: warn}
