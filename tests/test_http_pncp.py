@@ -6,7 +6,7 @@ import respx
 
 from portal_etl.bronze import BronzeStore
 from portal_etl.config import Municipio
-from portal_etl.export import mascarar_documento
+from portal_etl.export import mascarar_documento, mascarar_nome
 from portal_etl.http import ApiClient
 from portal_etl.sources.pncp import BASE_URL, PncpIndisponivel, PncpIngestor
 
@@ -101,3 +101,10 @@ def test_mascara_cpf_mas_mantem_cnpj():
     assert mascarar_documento("12345678901", "PF") == "***.456.789-**"
     assert mascarar_documento("01616319000109", "PJ") == "01.616.319/0001-09"
     assert mascarar_documento(None, "PJ") is None
+
+
+def test_mascara_cpf_no_nome_de_mei():
+    assert (
+        mascarar_nome("LUIZ CARLOS DA COSTA 46219080149") == "LUIZ CARLOS DA COSTA ***.190.801-**"
+    )
+    assert mascarar_nome("EMPRESA 2024 LTDA") == "EMPRESA 2024 LTDA"

@@ -52,6 +52,16 @@ def mascarar_documento(doc: str | None, tipo_pessoa: str | None) -> str | None:
     return digits
 
 
+_CPF_NO_NOME = re.compile(r"(?<!\d)(\d{3})\.?(\d{3})\.?(\d{3})-?(\d{2})(?!\d)")
+
+
+def mascarar_nome(nome: str | None) -> str | None:
+    """Razão social de MEI costuma terminar com o CPF do titular; mascaramos esse trecho."""
+    if not nome:
+        return nome
+    return _CPF_NO_NOME.sub(lambda m: f"***.{m.group(2)}.{m.group(3)}-**", nome)
+
+
 def _write(path: Path, payload: Any) -> Path:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(
@@ -94,6 +104,7 @@ def _contratos(con, cod: int) -> dict:
     )
     for f in fornecedores:
         f["documento"] = mascarar_documento(f["documento"], f.pop("tipo"))
+        f["nome"] = mascarar_nome(f["nome"])
     lista = _rows(
         con,
         f"""
@@ -109,6 +120,7 @@ def _contratos(con, cod: int) -> dict:
     )
     for c in lista:
         c["documento"] = mascarar_documento(c["documento"], c.pop("tipo"))
+        c["fornecedor"] = mascarar_nome(c["fornecedor"])
     return {
         "resumo": resumo,
         "categorias": categorias,

@@ -79,6 +79,7 @@ Retificações são deduplicadas mantendo a versão mais recente.
 |---|---|
 | `reconciliacao_rreo_dca` | Despesa liquidada difere mais de 1% entre RREO (6º bim.) e DCA |
 | `limite_lrf_inconsistente` | RGF declara limite máximo diferente de 54% |
+| `pessoal_rcl_implausivel` | RGF declara despesa com pessoal acima de 100% (ou negativa) da RCL |
 | `exercicio_incompleto` | Ano passado sem RREO do 6º bimestre |
 | `receita_muito_abaixo_previsto` | Arrecadação < 60% da previsão atualizada |
 | `ano_sem_dados` | Lacuna de RREO entre anos com dados |

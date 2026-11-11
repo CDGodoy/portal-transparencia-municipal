@@ -230,3 +230,8 @@ table.contratos td:nth-child(3) { min-width: 280px; }
   details.tabela { display: block; }
 }
 .bloco { margin-top: 24px; }
+.botao {
+  font: inherit; font-size: 14px; font-weight: 600; color: var(--accent-ink); cursor: pointer;
+  background: transparent; border: 1px solid var(--border); border-radius: 8px; padding: 8px 14px; margin-top: 8px;
+}
+.botao:hover { background: var(--wash); }

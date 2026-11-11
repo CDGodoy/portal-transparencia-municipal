@@ -329,7 +329,11 @@ export function pessoal(e: Estado): HTMLElement {
     color: [t.series[0]],
     grid: { left: 8, right: 120, top: 16, bottom: 8, containLabel: true },
     xAxis: { ...eixoCategoria(t, serie.map((s) => String(s.ano))), boundaryGap: false },
-    yAxis: { ...eixoValor(t, (v) => `${v}%`), min: 30, max: 60 },
+    yAxis: {
+      ...eixoValor(t, (v) => `${v}%`),
+      min: Math.min(30, Math.floor(Math.min(...serie.map((s) => s.pct ?? 30)) / 5) * 5),
+      max: Math.max(60, Math.ceil(Math.max(...serie.map((s) => s.pct ?? 60)) / 10) * 10),
+    },
     tooltip: { ...(base(t).tooltip as object), trigger: "axis",
       axisPointer: { type: "line", lineStyle: { color: t.axis, width: 1 } },
       formatter: (ps: { dataIndex: number }[]) => {
@@ -407,19 +411,29 @@ export function contratos(e: Estado): HTMLElement {
     "aria-label": "Buscar contratos", class: "busca" });
   const corpo = h("tbody");
   const contador = h("p", { class: "contador" });
+  let limite = 15;
+  const mais = h("button", { type: "button", class: "botao" }, "Mostrar mais contratos");
+  mais.addEventListener("click", () => {
+    limite += 30;
+    renderLista();
+  });
   const lista = c.lista.filter((x) => (anoRef ? x.ano === anoRef : true));
   function renderLista() {
     const q = busca.value.trim().toLowerCase();
     const filtrada = lista.filter((x) => !q ||
       `${x.fornecedor} ${x.objeto} ${x.documento ?? ""} ${x.unidade ?? ""}`.toLowerCase().includes(q));
-    corpo.replaceChildren(...filtrada.slice(0, 60).map((x) => h("tr", null,
+    corpo.replaceChildren(...filtrada.slice(0, limite).map((x) => h("tr", null,
       h("td", { class: "nowrap" }, dataBR(x.data)),
       h("td", null, h("div", { class: "forn" }, titulo(x.fornecedor)), h("div", { class: "doc" }, x.documento ?? "")),
       h("td", null, h("div", null, x.objeto), h("div", { class: "doc" }, `${x.categoria}${x.unidade ? ` · ${titulo(x.unidade)}` : ""}`)),
       h("td", { class: "num nowrap" }, brlCompleto(x.valor)))));
-    contador.textContent = `${inteiro(Math.min(60, filtrada.length))} de ${inteiro(filtrada.length)} contratos exibidos${lista.length < res.n ? ` (lista limitada aos ${lista.length} mais recentes)` : ""}.`;
+    contador.textContent = `${inteiro(Math.min(limite, filtrada.length))} de ${inteiro(filtrada.length)} contratos exibidos${lista.length < res.n ? ` (lista limitada aos ${lista.length} mais recentes)` : ""}.`;
+    mais.hidden = filtrada.length <= limite;
   }
-  busca.addEventListener("input", renderLista);
+  busca.addEventListener("input", () => {
+    limite = 15;
+    renderLista();
+  });
   renderLista();
 
   return secao("contratos", "Contratos e fornecedores",
@@ -444,6 +458,7 @@ export function contratos(e: Estado): HTMLElement {
         h("thead", null, h("tr", null, h("th", null, "Assinatura"), h("th", null, "Fornecedor"),
           h("th", null, "Objeto"), h("th", { class: "num" }, "Valor"))), corpo)),
       contador,
+      mais,
       aviso("Valor global = valor total previsto no contrato, não o valor efetivamente pago. CPFs de pessoas físicas são parcialmente ocultados (LGPD)."),
     ));
 }

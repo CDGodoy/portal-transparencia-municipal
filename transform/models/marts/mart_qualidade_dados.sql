@@ -33,6 +33,15 @@ achados as (
     qualify row_number() over (partition by cod_ibge, ano order by periodo desc) = 1
 
     union all
+    -- 2b. Percentual de pessoal sobre a RCL impossível (erro de preenchimento do RGF).
+    select cod_ibge, ano, 'aviso', 'pessoal_rcl_implausivel',
+        'RGF declara despesa com pessoal de ' || {{ numero_br('dtp_pct_rcl', 1) }}
+            || '% da RCL — valor implausível, provável erro de preenchimento.'
+    from {{ ref('fct_pessoal_lrf') }}
+    where dtp_pct_rcl > 100 or dtp_pct_rcl < 0
+    qualify row_number() over (partition by cod_ibge, ano order by periodo desc) = 1
+
+    union all
     -- 3. Exercício passado sem o RREO do 6º bimestre.
     select cod_ibge, ano, 'aviso', 'exercicio_incompleto',
         printf('Último RREO disponível é do %dº bimestre; o ano não está fechado.', bimestre_referencia)

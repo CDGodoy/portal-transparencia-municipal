@@ -63,7 +63,7 @@ export function titulo(s: string): string {
     .split(/\s+/)
     .map((w, i) => {
       if (i > 0 && minusculas.has(w)) return w;
-      if (/^(ltda|me|epp|eireli|s\/a|sa)$/.test(w)) return w.toUpperCase();
+      if (/^(ltda|me|epp|eireli|s\/a|sa|s\.a\.?)$/.test(w)) return w.toUpperCase();
       return w.charAt(0).toUpperCase() + w.slice(1);
     })
     .join(" ");
