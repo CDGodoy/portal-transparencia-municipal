@@ -26,7 +26,7 @@ log = logging.getLogger("portal_etl.http")
 
 USER_AGENT = (
     "portal-transparencia-municipal/1.0 "
-    "(projeto open source de dados abertos; +https://github.com/)"
+    "(projeto open source de dados abertos; +https://github.com/CDGodoy/portal-transparencia-municipal)"
 )
 
 # Intervalo mínimo entre requisições por host (segundos). O SICONFI documenta limite de

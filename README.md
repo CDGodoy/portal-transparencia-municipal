@@ -1,14 +1,14 @@
 # Portal da Transparência Municipal
 
-[![CI](https://github.com/__OWNER__/portal-transparencia-municipal/actions/workflows/ci.yml/badge.svg)](https://github.com/__OWNER__/portal-transparencia-municipal/actions/workflows/ci.yml)
-[![Pipeline de dados](https://github.com/__OWNER__/portal-transparencia-municipal/actions/workflows/pipeline.yml/badge.svg)](https://github.com/__OWNER__/portal-transparencia-municipal/actions/workflows/pipeline.yml)
+[![CI](https://github.com/CDGodoy/portal-transparencia-municipal/actions/workflows/ci.yml/badge.svg)](https://github.com/CDGodoy/portal-transparencia-municipal/actions/workflows/ci.yml)
+[![Pipeline de dados](https://github.com/CDGodoy/portal-transparencia-municipal/actions/workflows/pipeline.yml/badge.svg)](https://github.com/CDGodoy/portal-transparencia-municipal/actions/workflows/pipeline.yml)
 
 Portal que mostra, de forma visual e navegável, o **orçamento, as receitas, os gastos, a despesa com
 pessoal e os contratos** da Prefeitura de **Valparaíso de Goiás (GO)**, e de mais sete municípios do
 Entorno do DF para comparação, usando apenas **dados públicos oficiais**.
 
-**🔗 Portal:** https://__OWNER__.github.io/portal-transparencia-municipal/
-**📚 Documentação do modelo de dados (dbt):** https://__OWNER__.github.io/portal-transparencia-municipal/dbt/
+**🔗 Portal:** https://CDGodoy.github.io/portal-transparencia-municipal/
+**📚 Documentação do modelo de dados (dbt):** https://CDGodoy.github.io/portal-transparencia-municipal/dbt/
 
 É um projeto de portfólio de **Engenharia de Dados**: o foco é o pipeline (ingestão incremental de
 APIs governamentais instáveis, modelagem em camadas, testes de qualidade e publicação automatizada),
@@ -129,7 +129,7 @@ são públicos, aparecem completos.
 | `mart_indicadores` | município × ano | indicadores comparáveis |
 | `mart_qualidade_dados` | achado | inconsistências publicadas no portal |
 
-Dicionário completo e linhagem: [documentação do dbt](https://__OWNER__.github.io/portal-transparencia-municipal/dbt/)
+Dicionário completo e linhagem: [documentação do dbt](https://CDGodoy.github.io/portal-transparencia-municipal/dbt/)
 e [`docs/dicionario-de-dados.md`](docs/dicionario-de-dados.md).
 
 ## Como rodar localmente
