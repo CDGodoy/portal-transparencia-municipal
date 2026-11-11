@@ -17,8 +17,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: pipeline
@@ -82,16 +80,13 @@ jobs:
           mkdir -p dist/dbt
           cp ../transform/target/static_index.html dist/dbt/index.html
 
-      - uses: actions/upload-pages-artifact@v3
+      # Publica o site no branch gh-pages (GitHub Pages é ativado automaticamente).
+      - name: Deploy no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: site/dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: site/dist
+          force_orphan: true
+          user_name: "github-actions[bot]"
+          user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_message: "deploy: ${{ github.sha }}"
