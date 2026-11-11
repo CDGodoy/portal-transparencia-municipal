@@ -1,0 +1,3291 @@
+{
+ "bcb|ipca|serie=433": {
+  "rows": 141,
+  "ingested_at": "2026-11-11T14:06:04+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:38:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:37:29+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=11": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:37:26+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:37:15+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:38:14+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:38:11+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=4": {
+  "rows": 9,
+  "ingested_at": "2026-11-11T14:38:07+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=5": {
+  "rows": 9,
+  "ingested_at": "2026-11-11T14:37:58+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=6": {
+  "rows": 2,
+  "ingested_at": "2026-11-11T14:37:50+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=7": {
+  "rows": 7,
+  "ingested_at": "2026-11-11T14:37:46+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=8": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:37:36+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:37:34+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:37:05+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:36:00+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:35:54+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:35:48+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=2": {
+  "rows": 18,
+  "ingested_at": "2026-11-11T14:37:01+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:36:45+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:36:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:36:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:36:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:36:26+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=8": {
+  "rows": 8,
+  "ingested_at": "2026-11-11T14:36:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2024|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:36:09+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=1": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:35:45+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:33:52+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:33:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=12": {
+  "rows": 155,
+  "ingested_at": "2026-11-11T14:33:36+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=2": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:35:29+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=3": {
+  "rows": 49,
+  "ingested_at": "2026-11-11T14:35:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=4": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:34:53+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:34:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:34:30+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=7": {
+  "rows": 57,
+  "ingested_at": "2026-11-11T14:34:25+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=8": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:34:07+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2025|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:33:59+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=1": {
+  "rows": 72,
+  "ingested_at": "2026-11-11T14:32:43+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=10": {
+  "rows": 11,
+  "ingested_at": "2026-11-11T14:30:05+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:54+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:32:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=3": {
+  "rows": 51,
+  "ingested_at": "2026-11-11T14:32:11+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:31:50+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=5": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:31:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=6": {
+  "rows": 35,
+  "ingested_at": "2026-11-11T14:31:22+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=7": {
+  "rows": 17,
+  "ingested_at": "2026-11-11T14:31:01+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=8": {
+  "rows": 16,
+  "ingested_at": "2026-11-11T14:30:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:30:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:46:15+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:24+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:46:11+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:46:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:46:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:46:00+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:56+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:52+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=8": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=10": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:44:32+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=11": {
+  "rows": 35,
+  "ingested_at": "2026-11-11T14:44:18+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=12": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:44:07+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:16+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:12+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:07+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:45:02+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:44:54+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=7": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:44:51+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=8": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:44:44+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2024|mes=9": {
+  "rows": 14,
+  "ingested_at": "2026-11-11T14:44:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=1": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:44:01+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:42:14+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=11": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:42:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=12": {
+  "rows": 43,
+  "ingested_at": "2026-11-11T14:41:46+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=2": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:43:51+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=3": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:43:43+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=4": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:43:32+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=5": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:43:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=6": {
+  "rows": 13,
+  "ingested_at": "2026-11-11T14:43:04+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=7": {
+  "rows": 7,
+  "ingested_at": "2026-11-11T14:42:48+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=8": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:42:34+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2025|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:42:21+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=1": {
+  "rows": 25,
+  "ingested_at": "2026-11-11T14:41:29+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=10": {
+  "rows": 32,
+  "ingested_at": "2026-11-11T14:38:44+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=11": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:38:26+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=2": {
+  "rows": 98,
+  "ingested_at": "2026-11-11T14:41:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=3": {
+  "rows": 28,
+  "ingested_at": "2026-11-11T14:40:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=4": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:40:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=5": {
+  "rows": 51,
+  "ingested_at": "2026-11-11T14:40:00+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=6": {
+  "rows": 20,
+  "ingested_at": "2026-11-11T14:39:40+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=7": {
+  "rows": 14,
+  "ingested_at": "2026-11-11T14:39:24+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=8": {
+  "rows": 36,
+  "ingested_at": "2026-11-11T14:39:15+00:00"
+ },
+ "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=9": {
+  "rows": 56,
+  "ingested_at": "2026-11-11T14:39:01+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=10": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:54:10+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:53:57+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=5": {
+  "rows": 9,
+  "ingested_at": "2026-11-11T14:55:22+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=6": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:55:06+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=7": {
+  "rows": 2,
+  "ingested_at": "2026-11-11T14:54:57+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=8": {
+  "rows": 9,
+  "ingested_at": "2026-11-11T14:54:46+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=9": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:54:30+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:52+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:18+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=11": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:29:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:12+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:49+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:46+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:45+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:43+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:41+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=8": {
+  "rows": 119,
+  "ingested_at": "2026-11-11T14:29:38+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=9": {
+  "rows": 32,
+  "ingested_at": "2026-11-11T14:29:24+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:09+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:28:16+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:28:12+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:28:05+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:07+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:29:00+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=5": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:28:58+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:28:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=7": {
+  "rows": 40,
+  "ingested_at": "2026-11-11T14:28:43+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=8": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:28:32+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2024|mes=9": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:28:29+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=1": {
+  "rows": 2,
+  "ingested_at": "2026-11-11T14:28:02+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=10": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:26:16+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=11": {
+  "rows": 16,
+  "ingested_at": "2026-11-11T14:25:56+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=12": {
+  "rows": 16,
+  "ingested_at": "2026-11-11T14:25:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=2": {
+  "rows": 8,
+  "ingested_at": "2026-11-11T14:27:55+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=3": {
+  "rows": 10,
+  "ingested_at": "2026-11-11T14:27:45+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=4": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:27:35+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=5": {
+  "rows": 8,
+  "ingested_at": "2026-11-11T14:27:21+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=6": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:27:09+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=7": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:26:57+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=8": {
+  "rows": 7,
+  "ingested_at": "2026-11-11T14:26:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2025|mes=9": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:26:25+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=1": {
+  "rows": 8,
+  "ingested_at": "2026-11-11T14:25:28+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=10": {
+  "rows": 10,
+  "ingested_at": "2026-11-11T14:23:18+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=11": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:23:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=2": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:25:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=3": {
+  "rows": 20,
+  "ingested_at": "2026-11-11T14:24:48+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=4": {
+  "rows": 2,
+  "ingested_at": "2026-11-11T14:24:33+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=5": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:24:22+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=6": {
+  "rows": 14,
+  "ingested_at": "2026-11-11T14:24:06+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=7": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:23:56+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=8": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:23:48+00:00"
+ },
+ "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=9": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:23:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:53:53+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=10": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:53:15+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:53:10+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=12": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:53:06+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:53:49+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:53:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:53:45+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:53:41+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:53:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=7": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:53:34+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=8": {
+  "rows": 2,
+  "ingested_at": "2026-11-11T14:53:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=9": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:53:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:52:58+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=10": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:51:36+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=11": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:51:22+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=12": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:51:02+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:52:52+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=3": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:52:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=4": {
+  "rows": 9,
+  "ingested_at": "2026-11-11T14:52:39+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=5": {
+  "rows": 8,
+  "ingested_at": "2026-11-11T14:52:30+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=6": {
+  "rows": 7,
+  "ingested_at": "2026-11-11T14:52:22+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=7": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:52:14+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=8": {
+  "rows": 9,
+  "ingested_at": "2026-11-11T14:51:59+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2024|mes=9": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:51:49+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:50:56+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=10": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:49:16+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=11": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:49:04+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=12": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:48:50+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=2": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:50:50+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=3": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:50:39+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=4": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:50:30+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=5": {
+  "rows": 18,
+  "ingested_at": "2026-11-11T14:50:18+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=6": {
+  "rows": 7,
+  "ingested_at": "2026-11-11T14:50:04+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=7": {
+  "rows": 8,
+  "ingested_at": "2026-11-11T14:49:54+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=8": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:49:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2025|mes=9": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:49:28+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=1": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:48:36+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=10": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:46:44+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:46:26+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=2": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:48:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=3": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:48:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=4": {
+  "rows": 2,
+  "ingested_at": "2026-11-11T14:47:57+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=5": {
+  "rows": 16,
+  "ingested_at": "2026-11-11T14:47:41+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=6": {
+  "rows": 9,
+  "ingested_at": "2026-11-11T14:47:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=7": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:47:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=8": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:47:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=9": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:46:56+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=1": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:22:53+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=12": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:22:10+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:46+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:44+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:41+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:40+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=7": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:22:32+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=8": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:26+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:23+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:04+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:20:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=11": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:20:41+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=12": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:20:28+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:22:01+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=3": {
+  "rows": 3,
+  "ingested_at": "2026-11-11T14:21:55+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=4": {
+  "rows": 1,
+  "ingested_at": "2026-11-11T14:21:48+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=5": {
+  "rows": 8,
+  "ingested_at": "2026-11-11T14:21:38+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:21:24+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:21:16+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=8": {
+  "rows": 6,
+  "ingested_at": "2026-11-11T14:21:12+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2024|mes=9": {
+  "rows": 11,
+  "ingested_at": "2026-11-11T14:21:02+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:20:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=10": {
+  "rows": 8,
+  "ingested_at": "2026-11-11T14:18:39+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=11": {
+  "rows": 11,
+  "ingested_at": "2026-11-11T14:18:15+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=12": {
+  "rows": 7,
+  "ingested_at": "2026-11-11T14:18:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:20:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-11T14:20:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=4": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:20:04+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=5": {
+  "rows": 15,
+  "ingested_at": "2026-11-11T14:19:51+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=6": {
+  "rows": 16,
+  "ingested_at": "2026-11-11T14:19:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=7": {
+  "rows": 29,
+  "ingested_at": "2026-11-11T14:19:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=8": {
+  "rows": 13,
+  "ingested_at": "2026-11-11T14:19:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2025|mes=9": {
+  "rows": 27,
+  "ingested_at": "2026-11-11T14:18:52+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=1": {
+  "rows": 18,
+  "ingested_at": "2026-11-11T14:17:51+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=10": {
+  "rows": 16,
+  "ingested_at": "2026-11-11T14:15:36+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=11": {
+  "rows": 5,
+  "ingested_at": "2026-11-11T14:15:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=2": {
+  "rows": 9,
+  "ingested_at": "2026-11-11T14:17:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=3": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:17:25+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=4": {
+  "rows": 7,
+  "ingested_at": "2026-11-11T14:17:12+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=5": {
+  "rows": 11,
+  "ingested_at": "2026-11-11T14:16:53+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=6": {
+  "rows": 12,
+  "ingested_at": "2026-11-11T14:16:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=7": {
+  "rows": 36,
+  "ingested_at": "2026-11-11T14:16:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=8": {
+  "rows": 16,
+  "ingested_at": "2026-11-11T14:16:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=9": {
+  "rows": 4,
+  "ingested_at": "2026-11-11T14:15:50+00:00"
+ },
+ "siconfi|dca|5200258|2016|DCA-Anexo I-E": {
+  "version": "2017-05-22T22:35:18Z"
+ },
+ "siconfi|dca|5200258|2017|DCA-Anexo I-E": {
+  "version": "2021-02-12T22:30:17Z"
+ },
+ "siconfi|dca|5200258|2018|DCA-Anexo I-E": {
+  "version": "2019-04-26T09:09:43Z"
+ },
+ "siconfi|dca|5200258|2019|DCA-Anexo I-E": {
+  "version": "2021-02-12T22:30:52Z"
+ },
+ "siconfi|dca|5200258|2020|DCA-Anexo I-E": {
+  "version": "2021-05-02T22:30:27Z"
+ },
+ "siconfi|dca|5200258|2021|DCA-Anexo I-E": {
+  "version": "2022-04-28T21:38:15Z"
+ },
+ "siconfi|dca|5200258|2022|DCA-Anexo I-E": {
+  "version": "2025-09-08T14:27:20Z"
+ },
+ "siconfi|dca|5200258|2023|DCA-Anexo I-E": {
+  "version": "2025-07-02T13:26:29Z"
+ },
+ "siconfi|dca|5200258|2024|DCA-Anexo I-E": {
+  "version": "2025-09-24T12:21:58Z"
+ },
+ "siconfi|dca|5200258|2025|DCA-Anexo I-E": {
+  "version": "2026-04-29T16:14:25Z"
+ },
+ "siconfi|dca|5205497|2016|DCA-Anexo I-E": {
+  "version": "2017-06-07T13:05:29Z"
+ },
+ "siconfi|dca|5205497|2017|DCA-Anexo I-E": {
+  "version": "2018-05-09T09:44:35Z"
+ },
+ "siconfi|dca|5205497|2018|DCA-Anexo I-E": {
+  "version": "2019-12-02T08:39:21Z"
+ },
+ "siconfi|dca|5205497|2019|DCA-Anexo I-E": {
+  "version": "2021-12-01T10:06:40Z"
+ },
+ "siconfi|dca|5205497|2020|DCA-Anexo I-E": {
+  "version": "2023-08-22T20:16:27Z"
+ },
+ "siconfi|dca|5205497|2021|DCA-Anexo I-E": {
+  "version": "2022-06-24T20:34:16Z"
+ },
+ "siconfi|dca|5205497|2022|DCA-Anexo I-E": {
+  "version": "2023-08-22T20:10:44Z"
+ },
+ "siconfi|dca|5205497|2023|DCA-Anexo I-E": {
+  "version": "2025-07-14T17:01:00Z"
+ },
+ "siconfi|dca|5205497|2024|DCA-Anexo I-E": {
+  "version": "2025-10-14T17:18:27Z"
+ },
+ "siconfi|dca|5205497|2025|DCA-Anexo I-E": {
+  "version": "2026-05-07T11:36:50Z"
+ },
+ "siconfi|dca|5208004|2016|DCA-Anexo I-E": {
+  "version": "2017-06-19T22:33:12Z"
+ },
+ "siconfi|dca|5208004|2017|DCA-Anexo I-E": {
+  "version": "2018-04-06T15:43:19Z"
+ },
+ "siconfi|dca|5208004|2018|DCA-Anexo I-E": {
+  "version": "2019-05-20T08:56:59Z"
+ },
+ "siconfi|dca|5208004|2019|DCA-Anexo I-E": {
+  "version": "2020-05-19T10:20:13Z"
+ },
+ "siconfi|dca|5208004|2020|DCA-Anexo I-E": {
+  "version": "2021-05-05T13:31:30Z"
+ },
+ "siconfi|dca|5208004|2021|DCA-Anexo I-E": {
+  "version": "2022-07-18T13:15:49Z"
+ },
+ "siconfi|dca|5208004|2022|DCA-Anexo I-E": {
+  "version": "2023-05-08T13:09:53Z"
+ },
+ "siconfi|dca|5208004|2023|DCA-Anexo I-E": {
+  "version": "2024-05-02T09:15:38Z"
+ },
+ "siconfi|dca|5208004|2024|DCA-Anexo I-E": {
+  "version": "2025-06-05T15:57:10Z"
+ },
+ "siconfi|dca|5208004|2025|DCA-Anexo I-E": {
+  "version": "2026-05-12T22:33:31Z"
+ },
+ "siconfi|dca|5212501|2016|DCA-Anexo I-E": {
+  "version": "2017-04-27T15:55:22Z"
+ },
+ "siconfi|dca|5212501|2017|DCA-Anexo I-E": {
+  "version": "2018-04-27T15:59:28Z"
+ },
+ "siconfi|dca|5212501|2018|DCA-Anexo I-E": {
+  "version": "2019-08-28T18:17:46Z"
+ },
+ "siconfi|dca|5212501|2019|DCA-Anexo I-E": {
+  "version": "2020-05-19T10:05:25Z"
+ },
+ "siconfi|dca|5212501|2020|DCA-Anexo I-E": {
+  "version": "2023-09-20T22:30:21Z"
+ },
+ "siconfi|dca|5212501|2021|DCA-Anexo I-E": {
+  "version": "2024-01-02T10:50:15Z"
+ },
+ "siconfi|dca|5212501|2022|DCA-Anexo I-E": {
+  "version": "2025-05-23T13:06:51Z"
+ },
+ "siconfi|dca|5212501|2023|DCA-Anexo I-E": {
+  "version": "2025-07-16T09:12:43Z"
+ },
+ "siconfi|dca|5212501|2024|DCA-Anexo I-E": {
+  "version": "2025-10-17T13:24:51Z"
+ },
+ "siconfi|dca|5212501|2025|DCA-Anexo I-E": {
+  "version": "2026-04-29T10:47:53Z"
+ },
+ "siconfi|dca|5215231|2016|DCA-Anexo I-E": {
+  "version": "2017-06-01T12:46:40Z"
+ },
+ "siconfi|dca|5215231|2017|DCA-Anexo I-E": {
+  "version": "2018-05-03T14:47:51Z"
+ },
+ "siconfi|dca|5215231|2018|DCA-Anexo I-E": {
+  "version": "2019-06-18T09:49:50Z"
+ },
+ "siconfi|dca|5215231|2019|DCA-Anexo I-E": {
+  "version": "2020-03-18T17:13:08Z"
+ },
+ "siconfi|dca|5215231|2020|DCA-Anexo I-E": {
+  "version": "2021-04-27T10:25:35Z"
+ },
+ "siconfi|dca|5215231|2021|DCA-Anexo I-E": {
+  "version": "2022-05-04T15:07:04Z"
+ },
+ "siconfi|dca|5215231|2022|DCA-Anexo I-E": {
+  "version": "2023-04-26T16:45:21Z"
+ },
+ "siconfi|dca|5215231|2023|DCA-Anexo I-E": {
+  "version": "2024-04-30T09:58:23Z"
+ },
+ "siconfi|dca|5215231|2024|DCA-Anexo I-E": {
+  "version": "2026-07-03T10:59:00Z"
+ },
+ "siconfi|dca|5215231|2025|DCA-Anexo I-E": {
+  "version": "2026-07-02T17:39:28Z"
+ },
+ "siconfi|dca|5217609|2016|DCA-Anexo I-E": {
+  "version": "2017-05-09T17:29:11Z"
+ },
+ "siconfi|dca|5217609|2017|DCA-Anexo I-E": {
+  "version": "2018-04-26T14:18:37Z"
+ },
+ "siconfi|dca|5217609|2018|DCA-Anexo I-E": {
+  "version": "2019-10-25T11:24:58Z"
+ },
+ "siconfi|dca|5217609|2019|DCA-Anexo I-E": {
+  "version": "2021-03-02T14:16:27Z"
+ },
+ "siconfi|dca|5217609|2020|DCA-Anexo I-E": {
+  "version": "2023-06-19T15:45:15Z"
+ },
+ "siconfi|dca|5217609|2021|DCA-Anexo I-E": {
+  "version": "2022-04-12T17:28:19Z"
+ },
+ "siconfi|dca|5217609|2022|DCA-Anexo I-E": {
+  "version": "2023-03-28T17:11:57Z"
+ },
+ "siconfi|dca|5217609|2023|DCA-Anexo I-E": {
+  "version": "2024-03-11T11:26:04Z"
+ },
+ "siconfi|dca|5217609|2024|DCA-Anexo I-E": {
+  "version": "2025-05-08T16:29:10Z"
+ },
+ "siconfi|dca|5217609|2025|DCA-Anexo I-E": {
+  "version": "2026-02-25T17:55:49Z"
+ },
+ "siconfi|dca|5219753|2016|DCA-Anexo I-E": {
+  "version": "2017-05-08T09:25:22Z"
+ },
+ "siconfi|dca|5219753|2017|DCA-Anexo I-E": {
+  "version": "2018-03-05T11:08:00Z"
+ },
+ "siconfi|dca|5219753|2019|DCA-Anexo I-E": {
+  "version": "2020-05-20T14:43:26Z"
+ },
+ "siconfi|dca|5219753|2020|DCA-Anexo I-E": {
+  "version": "2021-05-05T13:20:12Z"
+ },
+ "siconfi|dca|5219753|2021|DCA-Anexo I-E": {
+  "version": "2022-04-28T08:55:13Z"
+ },
+ "siconfi|dca|5219753|2022|DCA-Anexo I-E": {
+  "version": "2023-04-19T09:50:52Z"
+ },
+ "siconfi|dca|5219753|2023|DCA-Anexo I-E": {
+  "version": "2024-04-05T08:47:15Z"
+ },
+ "siconfi|dca|5219753|2024|DCA-Anexo I-E": {
+  "version": "2025-04-30T08:36:43Z"
+ },
+ "siconfi|dca|5219753|2025|DCA-Anexo I-E": {
+  "version": "2026-03-24T17:46:37Z"
+ },
+ "siconfi|dca|5221858|2016|DCA-Anexo I-E": {
+  "version": "2018-04-25T08:36:26Z"
+ },
+ "siconfi|dca|5221858|2017|DCA-Anexo I-E": {
+  "version": "2018-04-18T12:07:43Z"
+ },
+ "siconfi|dca|5221858|2018|DCA-Anexo I-E": {
+  "version": "2019-04-25T09:32:05Z"
+ },
+ "siconfi|dca|5221858|2019|DCA-Anexo I-E": {
+  "version": "2020-05-19T09:26:13Z"
+ },
+ "siconfi|dca|5221858|2020|DCA-Anexo I-E": {
+  "version": "2021-04-30T09:21:44Z"
+ },
+ "siconfi|dca|5221858|2021|DCA-Anexo I-E": {
+  "version": "2022-04-27T15:39:36Z"
+ },
+ "siconfi|dca|5221858|2022|DCA-Anexo I-E": {
+  "version": "2024-05-23T11:41:35Z"
+ },
+ "siconfi|dca|5221858|2023|DCA-Anexo I-E": {
+  "version": "2024-06-25T16:16:12Z"
+ },
+ "siconfi|dca|5221858|2024|DCA-Anexo I-E": {
+  "version": "2025-09-29T22:59:46Z"
+ },
+ "siconfi|dca|5221858|2025|DCA-Anexo I-E": {
+  "version": "2026-06-30T17:30:18Z"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2016": {
+  "rows": 260,
+  "ingested_at": "2026-11-11T14:09:22+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2017": {
+  "rows": 155,
+  "ingested_at": "2026-11-11T14:09:24+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2018": {
+  "rows": 157,
+  "ingested_at": "2026-11-11T14:09:30+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2019": {
+  "rows": 173,
+  "ingested_at": "2026-11-11T14:09:35+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2020": {
+  "rows": 148,
+  "ingested_at": "2026-11-11T14:09:41+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2021": {
+  "rows": 222,
+  "ingested_at": "2026-11-11T14:09:46+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2022": {
+  "rows": 260,
+  "ingested_at": "2026-11-11T14:09:52+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2023": {
+  "rows": 262,
+  "ingested_at": "2026-11-11T14:09:57+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2024": {
+  "rows": 242,
+  "ingested_at": "2026-11-11T14:10:03+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5200258|ano=2025": {
+  "rows": 222,
+  "ingested_at": "2026-11-11T14:10:09+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2016": {
+  "rows": 184,
+  "ingested_at": "2026-11-11T14:10:19+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2017": {
+  "rows": 156,
+  "ingested_at": "2026-11-11T14:10:24+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2018": {
+  "rows": 206,
+  "ingested_at": "2026-11-11T14:10:30+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2019": {
+  "rows": 216,
+  "ingested_at": "2026-11-11T14:10:35+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2020": {
+  "rows": 156,
+  "ingested_at": "2026-11-11T14:10:41+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2021": {
+  "rows": 175,
+  "ingested_at": "2026-11-11T14:10:46+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2022": {
+  "rows": 208,
+  "ingested_at": "2026-11-11T14:10:52+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2023": {
+  "rows": 207,
+  "ingested_at": "2026-11-11T14:10:58+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2024": {
+  "rows": 210,
+  "ingested_at": "2026-11-11T14:11:03+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5205497|ano=2025": {
+  "rows": 195,
+  "ingested_at": "2026-11-11T14:11:09+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2016": {
+  "rows": 167,
+  "ingested_at": "2026-11-11T14:12:18+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2017": {
+  "rows": 229,
+  "ingested_at": "2026-11-11T14:12:23+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2018": {
+  "rows": 163,
+  "ingested_at": "2026-11-11T14:12:29+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2019": {
+  "rows": 186,
+  "ingested_at": "2026-11-11T14:12:34+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2020": {
+  "rows": 175,
+  "ingested_at": "2026-11-11T14:12:40+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2021": {
+  "rows": 187,
+  "ingested_at": "2026-11-11T14:12:45+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2022": {
+  "rows": 212,
+  "ingested_at": "2026-11-11T14:12:51+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2023": {
+  "rows": 209,
+  "ingested_at": "2026-11-11T14:12:56+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2024": {
+  "rows": 151,
+  "ingested_at": "2026-11-11T14:13:02+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5208004|ano=2025": {
+  "rows": 245,
+  "ingested_at": "2026-11-11T14:13:07+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2016": {
+  "rows": 102,
+  "ingested_at": "2026-11-11T14:08:25+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2017": {
+  "rows": 105,
+  "ingested_at": "2026-11-11T14:08:27+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2018": {
+  "rows": 99,
+  "ingested_at": "2026-11-11T14:08:36+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2019": {
+  "rows": 215,
+  "ingested_at": "2026-11-11T14:08:42+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2020": {
+  "rows": 193,
+  "ingested_at": "2026-11-11T14:08:48+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2021": {
+  "rows": 199,
+  "ingested_at": "2026-11-11T14:08:53+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2022": {
+  "rows": 165,
+  "ingested_at": "2026-11-11T14:08:59+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2023": {
+  "rows": 218,
+  "ingested_at": "2026-11-11T14:09:04+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2024": {
+  "rows": 202,
+  "ingested_at": "2026-11-11T14:09:10+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5212501|ano=2025": {
+  "rows": 194,
+  "ingested_at": "2026-11-11T14:09:15+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2016": {
+  "rows": 117,
+  "ingested_at": "2026-11-11T14:11:18+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2017": {
+  "rows": 196,
+  "ingested_at": "2026-11-11T14:11:24+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2018": {
+  "rows": 189,
+  "ingested_at": "2026-11-11T14:11:29+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2019": {
+  "rows": 197,
+  "ingested_at": "2026-11-11T14:11:35+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2020": {
+  "rows": 156,
+  "ingested_at": "2026-11-11T14:11:40+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2021": {
+  "rows": 156,
+  "ingested_at": "2026-11-11T14:11:46+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2022": {
+  "rows": 159,
+  "ingested_at": "2026-11-11T14:11:51+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2023": {
+  "rows": 215,
+  "ingested_at": "2026-11-11T14:11:57+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2024": {
+  "rows": 203,
+  "ingested_at": "2026-11-11T14:12:02+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5215231|ano=2025": {
+  "rows": 215,
+  "ingested_at": "2026-11-11T14:12:08+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2016": {
+  "rows": 159,
+  "ingested_at": "2026-11-11T14:13:17+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2017": {
+  "rows": 150,
+  "ingested_at": "2026-11-11T14:13:23+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2018": {
+  "rows": 219,
+  "ingested_at": "2026-11-11T14:13:28+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2019": {
+  "rows": 162,
+  "ingested_at": "2026-11-11T14:13:34+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2020": {
+  "rows": 187,
+  "ingested_at": "2026-11-11T14:13:40+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2021": {
+  "rows": 174,
+  "ingested_at": "2026-11-11T14:13:45+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2022": {
+  "rows": 174,
+  "ingested_at": "2026-11-11T14:13:51+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2023": {
+  "rows": 165,
+  "ingested_at": "2026-11-11T14:13:56+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2024": {
+  "rows": 174,
+  "ingested_at": "2026-11-11T14:14:02+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5217609|ano=2025": {
+  "rows": 186,
+  "ingested_at": "2026-11-11T14:14:07+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2016": {
+  "rows": 33,
+  "ingested_at": "2026-11-11T14:14:15+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2017": {
+  "rows": 251,
+  "ingested_at": "2026-11-11T14:14:21+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2019": {
+  "rows": 268,
+  "ingested_at": "2026-11-11T14:14:33+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2020": {
+  "rows": 255,
+  "ingested_at": "2026-11-11T14:14:38+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2021": {
+  "rows": 248,
+  "ingested_at": "2026-11-11T14:14:43+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2022": {
+  "rows": 241,
+  "ingested_at": "2026-11-11T14:14:49+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2023": {
+  "rows": 265,
+  "ingested_at": "2026-11-11T14:14:55+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2024": {
+  "rows": 245,
+  "ingested_at": "2026-11-11T14:15:00+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5219753|ano=2025": {
+  "rows": 275,
+  "ingested_at": "2026-11-11T14:15:06+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2016": {
+  "rows": 133,
+  "ingested_at": "2026-11-11T14:06:09+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2017": {
+  "rows": 131,
+  "ingested_at": "2026-11-11T14:06:15+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2018": {
+  "rows": 130,
+  "ingested_at": "2026-11-11T14:06:24+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2019": {
+  "rows": 134,
+  "ingested_at": "2026-11-11T14:07:34+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2020": {
+  "rows": 134,
+  "ingested_at": "2026-11-11T14:07:43+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2021": {
+  "rows": 205,
+  "ingested_at": "2026-11-11T14:07:51+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2022": {
+  "rows": 191,
+  "ingested_at": "2026-11-11T14:07:56+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2023": {
+  "rows": 190,
+  "ingested_at": "2026-11-11T14:08:02+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2024": {
+  "rows": 171,
+  "ingested_at": "2026-11-11T14:08:09+00:00"
+ },
+ "siconfi|dca|anexo=DCA-Anexo I-E|cod_ibge=5221858|ano=2025": {
+  "rows": 175,
+  "ingested_at": "2026-11-11T14:08:15+00:00"
+ },
+ "siconfi|rgf|5200258|2018|Q3": {
+  "version": "2020-03-18T12:16:19Z"
+ },
+ "siconfi|rgf|5200258|2019|Q3": {
+  "version": "2020-06-18T09:37:27Z"
+ },
+ "siconfi|rgf|5200258|2020|Q3": {
+  "version": "2021-12-22T11:01:22Z"
+ },
+ "siconfi|rgf|5200258|2021|Q3": {
+  "version": "2022-03-23T11:51:37Z"
+ },
+ "siconfi|rgf|5200258|2022|Q3": {
+  "version": "2024-05-15T17:11:21Z"
+ },
+ "siconfi|rgf|5200258|2023|Q3": {
+  "version": "2025-07-02T13:30:16Z"
+ },
+ "siconfi|rgf|5200258|2024|Q3": {
+  "version": "2025-09-26T14:15:12Z"
+ },
+ "siconfi|rgf|5200258|2025|Q3": {
+  "version": "2026-05-12T09:14:39Z"
+ },
+ "siconfi|rgf|5200258|2026|Q2": {
+  "version": "2026-09-30T09:36:05Z"
+ },
+ "siconfi|rgf|5205497|2016|Q3": {
+  "version": "2018-04-24T17:11:33Z"
+ },
+ "siconfi|rgf|5205497|2017|Q3": {
+  "version": "2018-05-11T08:22:26Z"
+ },
+ "siconfi|rgf|5205497|2018|Q3": {
+  "version": "2020-02-28T10:42:47Z"
+ },
+ "siconfi|rgf|5205497|2019|Q3": {
+  "version": "2020-02-28T10:39:44Z"
+ },
+ "siconfi|rgf|5205497|2020|Q3": {
+  "version": "2021-05-21T18:34:18Z"
+ },
+ "siconfi|rgf|5205497|2021|Q3": {
+  "version": "2022-06-27T21:39:45Z"
+ },
+ "siconfi|rgf|5205497|2022|Q3": {
+  "version": "2023-02-14T13:49:37Z"
+ },
+ "siconfi|rgf|5205497|2023|Q3": {
+  "version": "2025-06-10T09:46:40Z"
+ },
+ "siconfi|rgf|5205497|2024|Q3": {
+  "version": "2025-10-28T11:09:20Z"
+ },
+ "siconfi|rgf|5205497|2025|Q3": {
+  "version": "2026-05-21T10:09:35Z"
+ },
+ "siconfi|rgf|5205497|2026|Q2": {
+  "version": "2026-09-30T08:58:12Z"
+ },
+ "siconfi|rgf|5208004|2016|Q3": {
+  "version": "2017-09-26T17:08:23Z"
+ },
+ "siconfi|rgf|5208004|2017|Q3": {
+  "version": "2018-03-07T15:55:59Z"
+ },
+ "siconfi|rgf|5208004|2018|Q3": {
+  "version": "2020-07-09T14:09:21Z"
+ },
+ "siconfi|rgf|5208004|2019|Q3": {
+  "version": "2020-07-09T14:59:20Z"
+ },
+ "siconfi|rgf|5208004|2020|Q3": {
+  "version": "2021-12-14T17:32:48Z"
+ },
+ "siconfi|rgf|5208004|2021|Q3": {
+  "version": "2022-04-12T22:34:08Z"
+ },
+ "siconfi|rgf|5208004|2022|Q3": {
+  "version": "2023-03-06T16:51:19Z"
+ },
+ "siconfi|rgf|5208004|2023|Q3": {
+  "version": "2024-03-04T09:13:31Z"
+ },
+ "siconfi|rgf|5208004|2024|Q3": {
+  "version": "2025-05-22T11:18:33Z"
+ },
+ "siconfi|rgf|5208004|2025|Q3": {
+  "version": "2026-02-26T11:35:21Z"
+ },
+ "siconfi|rgf|5208004|2026|Q2": {
+  "version": "2026-09-30T15:08:38Z"
+ },
+ "siconfi|rgf|5212501|2016|Q1": {
+  "version": "2016-07-01T10:27:16Z"
+ },
+ "siconfi|rgf|5212501|2018|Q3": {
+  "version": "2019-11-26T11:19:24Z"
+ },
+ "siconfi|rgf|5212501|2019|Q3": {
+  "version": "2020-02-03T07:37:50Z"
+ },
+ "siconfi|rgf|5212501|2020|Q3": {
+  "version": "2021-03-10T13:37:05Z"
+ },
+ "siconfi|rgf|5212501|2021|Q3": {
+  "version": "2023-12-30T12:59:17Z"
+ },
+ "siconfi|rgf|5212501|2022|Q3": {
+  "version": "2025-05-27T17:32:29Z"
+ },
+ "siconfi|rgf|5212501|2023|Q3": {
+  "version": "2025-07-15T17:04:48Z"
+ },
+ "siconfi|rgf|5212501|2024|Q3": {
+  "version": "2025-10-15T12:44:08Z"
+ },
+ "siconfi|rgf|5212501|2025|Q3": {
+  "version": "2026-05-22T13:04:24Z"
+ },
+ "siconfi|rgf|5212501|2026|Q2": {
+  "version": "2026-09-25T16:44:40Z"
+ },
+ "siconfi|rgf|5215231|2016|Q3": {
+  "version": "2017-06-01T13:00:31Z"
+ },
+ "siconfi|rgf|5215231|2017|Q3": {
+  "version": "2018-01-29T12:20:46Z"
+ },
+ "siconfi|rgf|5215231|2018|Q3": {
+  "version": "2019-01-31T08:57:56Z"
+ },
+ "siconfi|rgf|5215231|2019|Q3": {
+  "version": "2020-02-18T18:01:54Z"
+ },
+ "siconfi|rgf|5215231|2020|Q3": {
+  "version": "2021-03-04T09:53:17Z"
+ },
+ "siconfi|rgf|5215231|2021|Q3": {
+  "version": "2022-02-25T09:33:45Z"
+ },
+ "siconfi|rgf|5215231|2022|Q3": {
+  "version": "2023-03-20T11:09:34Z"
+ },
+ "siconfi|rgf|5215231|2023|Q3": {
+  "version": "2024-04-19T15:56:30Z"
+ },
+ "siconfi|rgf|5215231|2024|Q3": {
+  "version": "2025-04-25T22:31:04Z"
+ },
+ "siconfi|rgf|5215231|2025|Q3": {
+  "version": "2026-07-07T11:31:42Z"
+ },
+ "siconfi|rgf|5215231|2026|Q2": {
+  "version": "2026-09-30T13:15:40Z"
+ },
+ "siconfi|rgf|5217609|2016|Q3": {
+  "version": "2017-05-03T12:27:07Z"
+ },
+ "siconfi|rgf|5217609|2017|Q3": {
+  "version": "2018-02-16T11:23:59Z"
+ },
+ "siconfi|rgf|5217609|2018|Q3": {
+  "version": "2019-10-15T14:45:38Z"
+ },
+ "siconfi|rgf|5217609|2019|Q3": {
+  "version": "2021-03-02T14:11:03Z"
+ },
+ "siconfi|rgf|5217609|2020|Q3": {
+  "version": "2021-06-08T10:13:48Z"
+ },
+ "siconfi|rgf|5217609|2021|Q3": {
+  "version": "2022-02-24T16:22:53Z"
+ },
+ "siconfi|rgf|5217609|2022|Q3": {
+  "version": "2023-02-15T09:54:36Z"
+ },
+ "siconfi|rgf|5217609|2023|Q3": {
+  "version": "2024-02-08T16:04:40Z"
+ },
+ "siconfi|rgf|5217609|2024|Q3": {
+  "version": "2025-02-10T08:06:34Z"
+ },
+ "siconfi|rgf|5217609|2025|Q3": {
+  "version": "2026-02-25T17:53:56Z"
+ },
+ "siconfi|rgf|5217609|2026|Q2": {
+  "version": "2026-10-27T09:15:53Z"
+ },
+ "siconfi|rgf|5219753|2017|Q3": {
+  "version": "2018-02-19T17:21:21Z"
+ },
+ "siconfi|rgf|5219753|2018|Q3": {
+  "version": "2019-02-15T11:24:12Z"
+ },
+ "siconfi|rgf|5219753|2019|Q3": {
+  "version": "2020-05-20T11:41:46Z"
+ },
+ "siconfi|rgf|5219753|2020|Q3": {
+  "version": "2021-04-30T11:06:22Z"
+ },
+ "siconfi|rgf|5219753|2021|Q3": {
+  "version": "2022-02-08T12:23:09Z"
+ },
+ "siconfi|rgf|5219753|2022|Q3": {
+  "version": "2023-02-28T09:10:57Z"
+ },
+ "siconfi|rgf|5219753|2023|Q3": {
+  "version": "2025-02-17T18:14:43Z"
+ },
+ "siconfi|rgf|5219753|2024|Q3": {
+  "version": "2025-03-10T16:40:31Z"
+ },
+ "siconfi|rgf|5219753|2025|Q3": {
+  "version": "2026-03-23T14:47:56Z"
+ },
+ "siconfi|rgf|5219753|2026|Q2": {
+  "version": "2026-09-24T09:29:33Z"
+ },
+ "siconfi|rgf|5221858|2016|Q3": {
+  "version": "2018-04-10T22:30:33Z"
+ },
+ "siconfi|rgf|5221858|2017|Q3": {
+  "version": "2018-04-18T14:59:55Z"
+ },
+ "siconfi|rgf|5221858|2018|Q3": {
+  "version": "2019-06-05T16:09:32Z"
+ },
+ "siconfi|rgf|5221858|2019|Q3": {
+  "version": "2021-02-18T09:27:34Z"
+ },
+ "siconfi|rgf|5221858|2020|Q3": {
+  "version": "2021-05-13T11:37:31Z"
+ },
+ "siconfi|rgf|5221858|2021|Q3": {
+  "version": "2022-06-14T09:37:03Z"
+ },
+ "siconfi|rgf|5221858|2022|Q3": {
+  "version": "2023-01-30T15:13:28Z"
+ },
+ "siconfi|rgf|5221858|2023|Q3": {
+  "version": "2024-10-01T14:42:31Z"
+ },
+ "siconfi|rgf|5221858|2024|Q3": {
+  "version": "2026-04-08T14:01:57Z"
+ },
+ "siconfi|rgf|5221858|2025|Q3": {
+  "version": "2026-04-08T14:39:53Z"
+ },
+ "siconfi|rgf|5221858|2026|Q2": {
+  "version": "2026-09-29T14:51:18Z"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2018|periodicidade=Q|periodo=3": {
+  "rows": 43,
+  "ingested_at": "2026-11-11T14:09:29+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2019|periodicidade=Q|periodo=3": {
+  "rows": 161,
+  "ingested_at": "2026-11-11T14:09:34+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2020|periodicidade=Q|periodo=3": {
+  "rows": 165,
+  "ingested_at": "2026-11-11T14:09:40+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2021|periodicidade=Q|periodo=3": {
+  "rows": 163,
+  "ingested_at": "2026-11-11T14:09:45+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2022|periodicidade=Q|periodo=3": {
+  "rows": 143,
+  "ingested_at": "2026-11-11T14:09:51+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2023|periodicidade=Q|periodo=3": {
+  "rows": 169,
+  "ingested_at": "2026-11-11T14:09:56+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2024|periodicidade=Q|periodo=3": {
+  "rows": 179,
+  "ingested_at": "2026-11-11T14:10:02+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2025|periodicidade=Q|periodo=3": {
+  "rows": 185,
+  "ingested_at": "2026-11-11T14:10:08+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5200258|ano=2026|periodicidade=Q|periodo=2": {
+  "rows": 169,
+  "ingested_at": "2026-11-11T14:10:13+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2016|periodicidade=Q|periodo=3": {
+  "rows": 22,
+  "ingested_at": "2026-11-11T14:10:18+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2017|periodicidade=Q|periodo=3": {
+  "rows": 18,
+  "ingested_at": "2026-11-11T14:10:24+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2018|periodicidade=Q|periodo=3": {
+  "rows": 193,
+  "ingested_at": "2026-11-11T14:10:29+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2019|periodicidade=Q|periodo=3": {
+  "rows": 184,
+  "ingested_at": "2026-11-11T14:10:35+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2020|periodicidade=Q|periodo=3": {
+  "rows": 171,
+  "ingested_at": "2026-11-11T14:10:40+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2021|periodicidade=Q|periodo=3": {
+  "rows": 176,
+  "ingested_at": "2026-11-11T14:10:45+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2022|periodicidade=Q|periodo=3": {
+  "rows": 182,
+  "ingested_at": "2026-11-11T14:10:51+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2023|periodicidade=Q|periodo=3": {
+  "rows": 187,
+  "ingested_at": "2026-11-11T14:10:57+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2024|periodicidade=Q|periodo=3": {
+  "rows": 166,
+  "ingested_at": "2026-11-11T14:11:02+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2025|periodicidade=Q|periodo=3": {
+  "rows": 203,
+  "ingested_at": "2026-11-11T14:11:07+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5205497|ano=2026|periodicidade=Q|periodo=2": {
+  "rows": 182,
+  "ingested_at": "2026-11-11T14:11:13+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2016|periodicidade=Q|periodo=3": {
+  "rows": 18,
+  "ingested_at": "2026-11-11T14:12:16+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2017|periodicidade=Q|periodo=3": {
+  "rows": 20,
+  "ingested_at": "2026-11-11T14:12:22+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2018|periodicidade=Q|periodo=3": {
+  "rows": 165,
+  "ingested_at": "2026-11-11T14:12:28+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2019|periodicidade=Q|periodo=3": {
+  "rows": 188,
+  "ingested_at": "2026-11-11T14:12:34+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2020|periodicidade=Q|periodo=3": {
+  "rows": 171,
+  "ingested_at": "2026-11-11T14:12:39+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2021|periodicidade=Q|periodo=3": {
+  "rows": 153,
+  "ingested_at": "2026-11-11T14:12:44+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2022|periodicidade=Q|periodo=3": {
+  "rows": 160,
+  "ingested_at": "2026-11-11T14:12:50+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2023|periodicidade=Q|periodo=3": {
+  "rows": 159,
+  "ingested_at": "2026-11-11T14:12:55+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2024|periodicidade=Q|periodo=3": {
+  "rows": 162,
+  "ingested_at": "2026-11-11T14:13:01+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2025|periodicidade=Q|periodo=3": {
+  "rows": 210,
+  "ingested_at": "2026-11-11T14:13:06+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5208004|ano=2026|periodicidade=Q|periodo=2": {
+  "rows": 188,
+  "ingested_at": "2026-11-11T14:13:12+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2016|periodicidade=Q|periodo=1": {
+  "rows": 17,
+  "ingested_at": "2026-11-11T14:08:24+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2018|periodicidade=Q|periodo=3": {
+  "rows": 181,
+  "ingested_at": "2026-11-11T14:08:36+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2019|periodicidade=Q|periodo=3": {
+  "rows": 166,
+  "ingested_at": "2026-11-11T14:08:41+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2020|periodicidade=Q|periodo=3": {
+  "rows": 163,
+  "ingested_at": "2026-11-11T14:08:46+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2021|periodicidade=Q|periodo=3": {
+  "rows": 160,
+  "ingested_at": "2026-11-11T14:08:53+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2022|periodicidade=Q|periodo=3": {
+  "rows": 151,
+  "ingested_at": "2026-11-11T14:08:58+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2023|periodicidade=Q|periodo=3": {
+  "rows": 176,
+  "ingested_at": "2026-11-11T14:09:03+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2024|periodicidade=Q|periodo=3": {
+  "rows": 182,
+  "ingested_at": "2026-11-11T14:09:09+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2025|periodicidade=Q|periodo=3": {
+  "rows": 189,
+  "ingested_at": "2026-11-11T14:09:15+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5212501|ano=2026|periodicidade=Q|periodo=2": {
+  "rows": 189,
+  "ingested_at": "2026-11-11T14:09:20+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2016|periodicidade=Q|periodo=3": {
+  "rows": 22,
+  "ingested_at": "2026-11-11T14:11:17+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2017|periodicidade=Q|periodo=3": {
+  "rows": 22,
+  "ingested_at": "2026-11-11T14:11:23+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2018|periodicidade=Q|periodo=3": {
+  "rows": 29,
+  "ingested_at": "2026-11-11T14:11:29+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2019|periodicidade=Q|periodo=3": {
+  "rows": 179,
+  "ingested_at": "2026-11-11T14:11:34+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2020|periodicidade=Q|periodo=3": {
+  "rows": 190,
+  "ingested_at": "2026-11-11T14:11:40+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2021|periodicidade=Q|periodo=3": {
+  "rows": 170,
+  "ingested_at": "2026-11-11T14:11:45+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2022|periodicidade=Q|periodo=3": {
+  "rows": 165,
+  "ingested_at": "2026-11-11T14:11:51+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2023|periodicidade=Q|periodo=3": {
+  "rows": 169,
+  "ingested_at": "2026-11-11T14:11:56+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2024|periodicidade=Q|periodo=3": {
+  "rows": 167,
+  "ingested_at": "2026-11-11T14:12:02+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2025|periodicidade=Q|periodo=3": {
+  "rows": 170,
+  "ingested_at": "2026-11-11T14:12:07+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5215231|ano=2026|periodicidade=Q|periodo=2": {
+  "rows": 159,
+  "ingested_at": "2026-11-11T14:12:13+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2016|periodicidade=Q|periodo=3": {
+  "rows": 19,
+  "ingested_at": "2026-11-11T14:13:16+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2017|periodicidade=Q|periodo=3": {
+  "rows": 16,
+  "ingested_at": "2026-11-11T14:13:21+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2018|periodicidade=Q|periodo=3": {
+  "rows": 155,
+  "ingested_at": "2026-11-11T14:13:27+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2019|periodicidade=Q|periodo=3": {
+  "rows": 169,
+  "ingested_at": "2026-11-11T14:13:33+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2020|periodicidade=Q|periodo=3": {
+  "rows": 179,
+  "ingested_at": "2026-11-11T14:13:39+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2021|periodicidade=Q|periodo=3": {
+  "rows": 154,
+  "ingested_at": "2026-11-11T14:13:44+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2022|periodicidade=Q|periodo=3": {
+  "rows": 147,
+  "ingested_at": "2026-11-11T14:13:50+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2023|periodicidade=Q|periodo=3": {
+  "rows": 158,
+  "ingested_at": "2026-11-11T14:13:55+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2024|periodicidade=Q|periodo=3": {
+  "rows": 185,
+  "ingested_at": "2026-11-11T14:14:00+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2025|periodicidade=Q|periodo=3": {
+  "rows": 158,
+  "ingested_at": "2026-11-11T14:14:06+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5217609|ano=2026|periodicidade=Q|periodo=2": {
+  "rows": 141,
+  "ingested_at": "2026-11-11T14:14:12+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2017|periodicidade=Q|periodo=3": {
+  "rows": 27,
+  "ingested_at": "2026-11-11T14:14:20+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2018|periodicidade=Q|periodo=3": {
+  "rows": 193,
+  "ingested_at": "2026-11-11T14:14:26+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2019|periodicidade=Q|periodo=3": {
+  "rows": 196,
+  "ingested_at": "2026-11-11T14:14:32+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2020|periodicidade=Q|periodo=3": {
+  "rows": 187,
+  "ingested_at": "2026-11-11T14:14:37+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2021|periodicidade=Q|periodo=3": {
+  "rows": 171,
+  "ingested_at": "2026-11-11T14:14:43+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2022|periodicidade=Q|periodo=3": {
+  "rows": 182,
+  "ingested_at": "2026-11-11T14:14:48+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2023|periodicidade=Q|periodo=3": {
+  "rows": 173,
+  "ingested_at": "2026-11-11T14:14:54+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2024|periodicidade=Q|periodo=3": {
+  "rows": 208,
+  "ingested_at": "2026-11-11T14:14:59+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2025|periodicidade=Q|periodo=3": {
+  "rows": 212,
+  "ingested_at": "2026-11-11T14:15:05+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5219753|ano=2026|periodicidade=Q|periodo=2": {
+  "rows": 193,
+  "ingested_at": "2026-11-11T14:15:10+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2016|periodicidade=Q|periodo=3": {
+  "rows": 17,
+  "ingested_at": "2026-11-11T14:06:08+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2017|periodicidade=Q|periodo=3": {
+  "rows": 19,
+  "ingested_at": "2026-11-11T14:06:14+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2018|periodicidade=Q|periodo=3": {
+  "rows": 38,
+  "ingested_at": "2026-11-11T14:06:23+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2019|periodicidade=Q|periodo=3": {
+  "rows": 161,
+  "ingested_at": "2026-11-11T14:07:33+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2020|periodicidade=Q|periodo=3": {
+  "rows": 165,
+  "ingested_at": "2026-11-11T14:07:43+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2021|periodicidade=Q|periodo=3": {
+  "rows": 144,
+  "ingested_at": "2026-11-11T14:07:50+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2022|periodicidade=Q|periodo=3": {
+  "rows": 145,
+  "ingested_at": "2026-11-11T14:07:56+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2023|periodicidade=Q|periodo=3": {
+  "rows": 167,
+  "ingested_at": "2026-11-11T14:08:01+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2024|periodicidade=Q|periodo=3": {
+  "rows": 174,
+  "ingested_at": "2026-11-11T14:08:08+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2025|periodicidade=Q|periodo=3": {
+  "rows": 172,
+  "ingested_at": "2026-11-11T14:08:14+00:00"
+ },
+ "siconfi|rgf|cod_ibge=5221858|ano=2026|periodicidade=Q|periodo=2": {
+  "rows": 167,
+  "ingested_at": "2026-11-11T14:08:19+00:00"
+ },
+ "siconfi|rreo|5200258|2018|6|RREO-Anexo 01": {
+  "version": "2019-02-19T16:47:50Z"
+ },
+ "siconfi|rreo|5200258|2018|6|RREO-Anexo 02": {
+  "version": "2019-02-19T16:47:50Z"
+ },
+ "siconfi|rreo|5200258|2019|6|RREO-Anexo 01": {
+  "version": "2020-02-11T09:54:51Z"
+ },
+ "siconfi|rreo|5200258|2019|6|RREO-Anexo 02": {
+  "version": "2020-02-11T09:54:51Z"
+ },
+ "siconfi|rreo|5200258|2020|6|RREO-Anexo 01": {
+  "version": "2021-01-30T10:50:24Z"
+ },
+ "siconfi|rreo|5200258|2020|6|RREO-Anexo 02": {
+  "version": "2021-01-30T10:50:24Z"
+ },
+ "siconfi|rreo|5200258|2021|6|RREO-Anexo 01": {
+  "version": "2022-02-14T18:26:34Z"
+ },
+ "siconfi|rreo|5200258|2021|6|RREO-Anexo 02": {
+  "version": "2022-02-14T18:26:34Z"
+ },
+ "siconfi|rreo|5200258|2022|6|RREO-Anexo 01": {
+  "version": "2024-05-15T17:07:45Z"
+ },
+ "siconfi|rreo|5200258|2022|6|RREO-Anexo 02": {
+  "version": "2024-05-15T17:07:45Z"
+ },
+ "siconfi|rreo|5200258|2023|6|RREO-Anexo 01": {
+  "version": "2025-07-02T13:28:21Z"
+ },
+ "siconfi|rreo|5200258|2023|6|RREO-Anexo 02": {
+  "version": "2025-07-02T13:28:21Z"
+ },
+ "siconfi|rreo|5200258|2024|6|RREO-Anexo 01": {
+  "version": "2025-09-26T14:13:14Z"
+ },
+ "siconfi|rreo|5200258|2024|6|RREO-Anexo 02": {
+  "version": "2025-09-26T14:13:14Z"
+ },
+ "siconfi|rreo|5200258|2025|6|RREO-Anexo 01": {
+  "version": "2026-05-11T17:00:58Z"
+ },
+ "siconfi|rreo|5200258|2025|6|RREO-Anexo 02": {
+  "version": "2026-05-11T17:00:58Z"
+ },
+ "siconfi|rreo|5200258|2026|4|RREO-Anexo 01": {
+  "version": "2026-09-30T09:37:52Z"
+ },
+ "siconfi|rreo|5200258|2026|4|RREO-Anexo 02": {
+  "version": "2026-09-30T09:37:52Z"
+ },
+ "siconfi|rreo|5205497|2016|6|RREO-Anexo 01": {
+  "version": "2018-05-28T16:39:28Z"
+ },
+ "siconfi|rreo|5205497|2016|6|RREO-Anexo 02": {
+  "version": "2018-05-28T16:39:28Z"
+ },
+ "siconfi|rreo|5205497|2017|6|RREO-Anexo 01": {
+  "version": "2018-04-24T17:40:35Z"
+ },
+ "siconfi|rreo|5205497|2017|6|RREO-Anexo 02": {
+  "version": "2018-04-24T17:40:35Z"
+ },
+ "siconfi|rreo|5205497|2018|6|RREO-Anexo 01": {
+  "version": "2019-02-12T14:43:26Z"
+ },
+ "siconfi|rreo|5205497|2018|6|RREO-Anexo 02": {
+  "version": "2019-02-12T14:43:26Z"
+ },
+ "siconfi|rreo|5205497|2019|6|RREO-Anexo 01": {
+  "version": "2020-02-28T10:40:55Z"
+ },
+ "siconfi|rreo|5205497|2019|6|RREO-Anexo 02": {
+  "version": "2020-02-28T10:40:55Z"
+ },
+ "siconfi|rreo|5205497|2020|6|RREO-Anexo 01": {
+  "version": "2021-02-22T10:04:00Z"
+ },
+ "siconfi|rreo|5205497|2020|6|RREO-Anexo 02": {
+  "version": "2021-02-22T10:04:00Z"
+ },
+ "siconfi|rreo|5205497|2021|6|RREO-Anexo 01": {
+  "version": "2022-02-01T13:00:10Z"
+ },
+ "siconfi|rreo|5205497|2021|6|RREO-Anexo 02": {
+  "version": "2022-02-01T13:00:10Z"
+ },
+ "siconfi|rreo|5205497|2022|6|RREO-Anexo 01": {
+  "version": "2023-02-14T13:47:20Z"
+ },
+ "siconfi|rreo|5205497|2022|6|RREO-Anexo 02": {
+  "version": "2023-02-14T13:47:20Z"
+ },
+ "siconfi|rreo|5205497|2023|6|RREO-Anexo 01": {
+  "version": "2025-06-10T09:45:29Z"
+ },
+ "siconfi|rreo|5205497|2023|6|RREO-Anexo 02": {
+  "version": "2025-06-10T09:45:29Z"
+ },
+ "siconfi|rreo|5205497|2024|6|RREO-Anexo 01": {
+  "version": "2025-10-13T17:27:07Z"
+ },
+ "siconfi|rreo|5205497|2024|6|RREO-Anexo 02": {
+  "version": "2025-10-13T17:27:07Z"
+ },
+ "siconfi|rreo|5205497|2025|6|RREO-Anexo 01": {
+  "version": "2026-02-09T16:55:27Z"
+ },
+ "siconfi|rreo|5205497|2025|6|RREO-Anexo 02": {
+  "version": "2026-02-09T16:55:27Z"
+ },
+ "siconfi|rreo|5205497|2026|4|RREO-Anexo 01": {
+  "version": "2026-09-30T08:54:07Z"
+ },
+ "siconfi|rreo|5205497|2026|4|RREO-Anexo 02": {
+  "version": "2026-09-30T08:54:07Z"
+ },
+ "siconfi|rreo|5208004|2016|6|RREO-Anexo 01": {
+  "version": "2017-09-26T16:01:03Z"
+ },
+ "siconfi|rreo|5208004|2016|6|RREO-Anexo 02": {
+  "version": "2017-09-26T16:01:03Z"
+ },
+ "siconfi|rreo|5208004|2017|6|RREO-Anexo 01": {
+  "version": "2018-01-31T18:46:02Z"
+ },
+ "siconfi|rreo|5208004|2017|6|RREO-Anexo 02": {
+  "version": "2018-01-31T18:46:02Z"
+ },
+ "siconfi|rreo|5208004|2018|6|RREO-Anexo 01": {
+  "version": "2019-02-25T13:12:55Z"
+ },
+ "siconfi|rreo|5208004|2018|6|RREO-Anexo 02": {
+  "version": "2019-02-25T13:12:55Z"
+ },
+ "siconfi|rreo|5208004|2019|6|RREO-Anexo 01": {
+  "version": "2020-06-23T14:08:45Z"
+ },
+ "siconfi|rreo|5208004|2019|6|RREO-Anexo 02": {
+  "version": "2020-06-23T14:08:45Z"
+ },
+ "siconfi|rreo|5208004|2020|6|RREO-Anexo 01": {
+  "version": "2021-03-02T14:01:44Z"
+ },
+ "siconfi|rreo|5208004|2020|6|RREO-Anexo 02": {
+  "version": "2021-03-02T14:01:44Z"
+ },
+ "siconfi|rreo|5208004|2021|6|RREO-Anexo 01": {
+  "version": "2022-04-12T22:34:17Z"
+ },
+ "siconfi|rreo|5208004|2021|6|RREO-Anexo 02": {
+  "version": "2022-04-12T22:34:17Z"
+ },
+ "siconfi|rreo|5208004|2022|6|RREO-Anexo 01": {
+  "version": "2023-04-19T10:56:00Z"
+ },
+ "siconfi|rreo|5208004|2022|6|RREO-Anexo 02": {
+  "version": "2023-04-19T10:56:00Z"
+ },
+ "siconfi|rreo|5208004|2023|6|RREO-Anexo 01": {
+  "version": "2024-03-26T14:40:20Z"
+ },
+ "siconfi|rreo|5208004|2023|6|RREO-Anexo 02": {
+  "version": "2024-03-26T14:40:20Z"
+ },
+ "siconfi|rreo|5208004|2024|6|RREO-Anexo 01": {
+  "version": "2025-05-22T11:18:54Z"
+ },
+ "siconfi|rreo|5208004|2024|6|RREO-Anexo 02": {
+  "version": "2025-05-22T11:18:54Z"
+ },
+ "siconfi|rreo|5208004|2025|6|RREO-Anexo 01": {
+  "version": "2026-02-13T14:40:58Z"
+ },
+ "siconfi|rreo|5208004|2025|6|RREO-Anexo 02": {
+  "version": "2026-02-13T14:40:58Z"
+ },
+ "siconfi|rreo|5208004|2026|4|RREO-Anexo 01": {
+  "version": "2026-09-30T15:09:49Z"
+ },
+ "siconfi|rreo|5208004|2026|4|RREO-Anexo 02": {
+  "version": "2026-09-30T15:09:49Z"
+ },
+ "siconfi|rreo|5212501|2016|2|RREO-Anexo 01": {
+  "version": "2016-07-01T10:24:03Z"
+ },
+ "siconfi|rreo|5212501|2016|2|RREO-Anexo 02": {
+  "version": "2016-07-01T10:24:03Z"
+ },
+ "siconfi|rreo|5212501|2018|6|RREO-Anexo 01": {
+  "version": "2019-02-28T09:10:14Z"
+ },
+ "siconfi|rreo|5212501|2018|6|RREO-Anexo 02": {
+  "version": "2019-02-28T09:10:14Z"
+ },
+ "siconfi|rreo|5212501|2019|6|RREO-Anexo 01": {
+  "version": "2020-01-24T17:07:30Z"
+ },
+ "siconfi|rreo|5212501|2019|6|RREO-Anexo 02": {
+  "version": "2020-01-24T17:07:30Z"
+ },
+ "siconfi|rreo|5212501|2020|6|RREO-Anexo 01": {
+  "version": "2021-03-08T17:04:35Z"
+ },
+ "siconfi|rreo|5212501|2020|6|RREO-Anexo 02": {
+  "version": "2021-03-08T17:04:35Z"
+ },
+ "siconfi|rreo|5212501|2021|6|RREO-Anexo 01": {
+  "version": "2023-12-30T17:15:12Z"
+ },
+ "siconfi|rreo|5212501|2021|6|RREO-Anexo 02": {
+  "version": "2023-12-30T17:15:12Z"
+ },
+ "siconfi|rreo|5212501|2022|6|RREO-Anexo 01": {
+  "version": "2025-05-27T17:33:34Z"
+ },
+ "siconfi|rreo|5212501|2022|6|RREO-Anexo 02": {
+  "version": "2025-05-27T17:33:34Z"
+ },
+ "siconfi|rreo|5212501|2023|6|RREO-Anexo 01": {
+  "version": "2025-07-15T17:03:27Z"
+ },
+ "siconfi|rreo|5212501|2023|6|RREO-Anexo 02": {
+  "version": "2025-07-15T17:03:27Z"
+ },
+ "siconfi|rreo|5212501|2024|6|RREO-Anexo 01": {
+  "version": "2025-10-14T16:58:51Z"
+ },
+ "siconfi|rreo|5212501|2024|6|RREO-Anexo 02": {
+  "version": "2025-10-14T16:58:51Z"
+ },
+ "siconfi|rreo|5212501|2025|6|RREO-Anexo 01": {
+  "version": "2026-02-03T15:05:50Z"
+ },
+ "siconfi|rreo|5212501|2025|6|RREO-Anexo 02": {
+  "version": "2026-02-03T15:05:50Z"
+ },
+ "siconfi|rreo|5212501|2026|4|RREO-Anexo 01": {
+  "version": "2026-09-25T16:43:42Z"
+ },
+ "siconfi|rreo|5212501|2026|4|RREO-Anexo 02": {
+  "version": "2026-09-25T16:43:42Z"
+ },
+ "siconfi|rreo|5215231|2016|6|RREO-Anexo 01": {
+  "version": "2017-06-01T12:58:02Z"
+ },
+ "siconfi|rreo|5215231|2016|6|RREO-Anexo 02": {
+  "version": "2017-06-01T12:58:02Z"
+ },
+ "siconfi|rreo|5215231|2017|6|RREO-Anexo 01": {
+  "version": "2018-01-29T12:20:03Z"
+ },
+ "siconfi|rreo|5215231|2017|6|RREO-Anexo 02": {
+  "version": "2018-01-29T12:20:03Z"
+ },
+ "siconfi|rreo|5215231|2018|6|RREO-Anexo 01": {
+  "version": "2019-01-31T08:57:00Z"
+ },
+ "siconfi|rreo|5215231|2018|6|RREO-Anexo 02": {
+  "version": "2019-01-31T08:57:00Z"
+ },
+ "siconfi|rreo|5215231|2019|6|RREO-Anexo 01": {
+  "version": "2020-02-18T18:03:29Z"
+ },
+ "siconfi|rreo|5215231|2019|6|RREO-Anexo 02": {
+  "version": "2020-02-18T18:03:29Z"
+ },
+ "siconfi|rreo|5215231|2020|6|RREO-Anexo 01": {
+  "version": "2021-03-04T09:57:49Z"
+ },
+ "siconfi|rreo|5215231|2020|6|RREO-Anexo 02": {
+  "version": "2021-03-04T09:57:49Z"
+ },
+ "siconfi|rreo|5215231|2021|6|RREO-Anexo 01": {
+  "version": "2022-02-25T09:21:28Z"
+ },
+ "siconfi|rreo|5215231|2021|6|RREO-Anexo 02": {
+  "version": "2022-02-25T09:21:28Z"
+ },
+ "siconfi|rreo|5215231|2022|6|RREO-Anexo 01": {
+  "version": "2023-02-06T14:40:43Z"
+ },
+ "siconfi|rreo|5215231|2022|6|RREO-Anexo 02": {
+  "version": "2023-02-06T14:40:43Z"
+ },
+ "siconfi|rreo|5215231|2023|6|RREO-Anexo 01": {
+  "version": "2024-04-19T15:53:42Z"
+ },
+ "siconfi|rreo|5215231|2023|6|RREO-Anexo 02": {
+  "version": "2024-04-19T15:53:42Z"
+ },
+ "siconfi|rreo|5215231|2024|6|RREO-Anexo 01": {
+  "version": "2025-04-17T09:23:59Z"
+ },
+ "siconfi|rreo|5215231|2024|6|RREO-Anexo 02": {
+  "version": "2025-04-17T09:23:59Z"
+ },
+ "siconfi|rreo|5215231|2025|6|RREO-Anexo 01": {
+  "version": "2026-07-21T09:36:23Z"
+ },
+ "siconfi|rreo|5215231|2025|6|RREO-Anexo 02": {
+  "version": "2026-07-21T09:36:23Z"
+ },
+ "siconfi|rreo|5215231|2026|4|RREO-Anexo 01": {
+  "version": "2026-09-30T13:14:21Z"
+ },
+ "siconfi|rreo|5215231|2026|4|RREO-Anexo 02": {
+  "version": "2026-09-30T13:14:21Z"
+ },
+ "siconfi|rreo|5217609|2016|6|RREO-Anexo 01": {
+  "version": "2017-05-03T12:26:36Z"
+ },
+ "siconfi|rreo|5217609|2016|6|RREO-Anexo 02": {
+  "version": "2017-05-03T12:26:36Z"
+ },
+ "siconfi|rreo|5217609|2017|6|RREO-Anexo 01": {
+  "version": "2018-02-16T11:21:57Z"
+ },
+ "siconfi|rreo|5217609|2017|6|RREO-Anexo 02": {
+  "version": "2018-02-16T11:21:57Z"
+ },
+ "siconfi|rreo|5217609|2018|6|RREO-Anexo 01": {
+  "version": "2019-10-15T17:28:36Z"
+ },
+ "siconfi|rreo|5217609|2018|6|RREO-Anexo 02": {
+  "version": "2019-10-15T17:28:36Z"
+ },
+ "siconfi|rreo|5217609|2019|6|RREO-Anexo 01": {
+  "version": "2021-03-02T14:12:48Z"
+ },
+ "siconfi|rreo|5217609|2019|6|RREO-Anexo 02": {
+  "version": "2021-03-02T14:12:48Z"
+ },
+ "siconfi|rreo|5217609|2020|6|RREO-Anexo 01": {
+  "version": "2021-06-08T10:15:24Z"
+ },
+ "siconfi|rreo|5217609|2020|6|RREO-Anexo 02": {
+  "version": "2021-06-08T10:15:24Z"
+ },
+ "siconfi|rreo|5217609|2021|6|RREO-Anexo 01": {
+  "version": "2022-01-28T14:04:07Z"
+ },
+ "siconfi|rreo|5217609|2021|6|RREO-Anexo 02": {
+  "version": "2022-01-28T14:04:07Z"
+ },
+ "siconfi|rreo|5217609|2022|6|RREO-Anexo 01": {
+  "version": "2023-02-15T09:52:02Z"
+ },
+ "siconfi|rreo|5217609|2022|6|RREO-Anexo 02": {
+  "version": "2023-02-15T09:52:02Z"
+ },
+ "siconfi|rreo|5217609|2023|6|RREO-Anexo 01": {
+  "version": "2024-02-08T16:01:56Z"
+ },
+ "siconfi|rreo|5217609|2023|6|RREO-Anexo 02": {
+  "version": "2024-02-08T16:01:56Z"
+ },
+ "siconfi|rreo|5217609|2024|6|RREO-Anexo 01": {
+  "version": "2025-09-18T17:07:55Z"
+ },
+ "siconfi|rreo|5217609|2024|6|RREO-Anexo 02": {
+  "version": "2025-09-18T17:07:55Z"
+ },
+ "siconfi|rreo|5217609|2025|6|RREO-Anexo 01": {
+  "version": "2026-02-25T17:54:56Z"
+ },
+ "siconfi|rreo|5217609|2025|6|RREO-Anexo 02": {
+  "version": "2026-02-25T17:54:56Z"
+ },
+ "siconfi|rreo|5217609|2026|4|RREO-Anexo 01": {
+  "version": "2026-10-27T09:13:36Z"
+ },
+ "siconfi|rreo|5217609|2026|4|RREO-Anexo 02": {
+  "version": "2026-10-27T09:13:36Z"
+ },
+ "siconfi|rreo|5219753|2017|6|RREO-Anexo 01": {
+  "version": "2018-02-19T17:14:17Z"
+ },
+ "siconfi|rreo|5219753|2017|6|RREO-Anexo 02": {
+  "version": "2018-02-19T17:14:17Z"
+ },
+ "siconfi|rreo|5219753|2018|6|RREO-Anexo 01": {
+  "version": "2019-02-15T11:54:59Z"
+ },
+ "siconfi|rreo|5219753|2018|6|RREO-Anexo 02": {
+  "version": "2019-02-15T11:54:59Z"
+ },
+ "siconfi|rreo|5219753|2019|6|RREO-Anexo 01": {
+  "version": "2020-05-20T11:32:56Z"
+ },
+ "siconfi|rreo|5219753|2019|6|RREO-Anexo 02": {
+  "version": "2020-05-20T11:32:56Z"
+ },
+ "siconfi|rreo|5219753|2020|6|RREO-Anexo 01": {
+  "version": "2021-02-24T09:02:04Z"
+ },
+ "siconfi|rreo|5219753|2020|6|RREO-Anexo 02": {
+  "version": "2021-02-24T09:02:04Z"
+ },
+ "siconfi|rreo|5219753|2021|6|RREO-Anexo 01": {
+  "version": "2022-01-31T09:12:31Z"
+ },
+ "siconfi|rreo|5219753|2021|6|RREO-Anexo 02": {
+  "version": "2022-01-31T09:12:31Z"
+ },
+ "siconfi|rreo|5219753|2022|6|RREO-Anexo 01": {
+  "version": "2023-02-14T13:13:04Z"
+ },
+ "siconfi|rreo|5219753|2022|6|RREO-Anexo 02": {
+  "version": "2023-02-14T13:13:04Z"
+ },
+ "siconfi|rreo|5219753|2023|6|RREO-Anexo 01": {
+  "version": "2024-01-29T11:41:33Z"
+ },
+ "siconfi|rreo|5219753|2023|6|RREO-Anexo 02": {
+  "version": "2024-01-29T11:41:33Z"
+ },
+ "siconfi|rreo|5219753|2024|6|RREO-Anexo 01": {
+  "version": "2025-02-04T09:28:37Z"
+ },
+ "siconfi|rreo|5219753|2024|6|RREO-Anexo 02": {
+  "version": "2025-02-04T09:28:37Z"
+ },
+ "siconfi|rreo|5219753|2025|6|RREO-Anexo 01": {
+  "version": "2026-07-29T17:04:00Z"
+ },
+ "siconfi|rreo|5219753|2025|6|RREO-Anexo 02": {
+  "version": "2026-07-29T17:04:00Z"
+ },
+ "siconfi|rreo|5219753|2026|4|RREO-Anexo 01": {
+  "version": "2026-09-24T09:28:47Z"
+ },
+ "siconfi|rreo|5219753|2026|4|RREO-Anexo 02": {
+  "version": "2026-09-24T09:28:47Z"
+ },
+ "siconfi|rreo|5221858|2016|6|RREO-Anexo 01": {
+  "version": "2018-04-11T22:32:38Z"
+ },
+ "siconfi|rreo|5221858|2016|6|RREO-Anexo 02": {
+  "version": "2018-04-11T22:32:38Z"
+ },
+ "siconfi|rreo|5221858|2017|6|RREO-Anexo 01": {
+  "version": "2020-05-11T14:47:01Z"
+ },
+ "siconfi|rreo|5221858|2017|6|RREO-Anexo 02": {
+  "version": "2020-05-11T14:47:01Z"
+ },
+ "siconfi|rreo|5221858|2018|6|RREO-Anexo 01": {
+  "version": "2020-08-05T13:57:30Z"
+ },
+ "siconfi|rreo|5221858|2018|6|RREO-Anexo 02": {
+  "version": "2020-08-05T13:57:30Z"
+ },
+ "siconfi|rreo|5221858|2019|6|RREO-Anexo 01": {
+  "version": "2020-04-08T12:40:37Z"
+ },
+ "siconfi|rreo|5221858|2019|6|RREO-Anexo 02": {
+  "version": "2020-04-08T12:40:37Z"
+ },
+ "siconfi|rreo|5221858|2020|6|RREO-Anexo 01": {
+  "version": "2021-05-13T11:19:02Z"
+ },
+ "siconfi|rreo|5221858|2020|6|RREO-Anexo 02": {
+  "version": "2021-05-13T11:19:02Z"
+ },
+ "siconfi|rreo|5221858|2021|6|RREO-Anexo 01": {
+  "version": "2022-01-30T15:41:21Z"
+ },
+ "siconfi|rreo|5221858|2021|6|RREO-Anexo 02": {
+  "version": "2022-01-30T15:41:21Z"
+ },
+ "siconfi|rreo|5221858|2022|6|RREO-Anexo 01": {
+  "version": "2024-05-23T15:58:01Z"
+ },
+ "siconfi|rreo|5221858|2022|6|RREO-Anexo 02": {
+  "version": "2024-05-23T15:58:01Z"
+ },
+ "siconfi|rreo|5221858|2023|6|RREO-Anexo 01": {
+  "version": "2024-08-20T10:47:23Z"
+ },
+ "siconfi|rreo|5221858|2023|6|RREO-Anexo 02": {
+  "version": "2024-08-20T10:47:23Z"
+ },
+ "siconfi|rreo|5221858|2024|6|RREO-Anexo 01": {
+  "version": "2025-09-29T19:48:32Z"
+ },
+ "siconfi|rreo|5221858|2024|6|RREO-Anexo 02": {
+  "version": "2025-09-29T19:48:32Z"
+ },
+ "siconfi|rreo|5221858|2025|6|RREO-Anexo 01": {
+  "version": "2026-01-30T15:36:22Z"
+ },
+ "siconfi|rreo|5221858|2025|6|RREO-Anexo 02": {
+  "version": "2026-01-30T15:36:22Z"
+ },
+ "siconfi|rreo|5221858|2026|4|RREO-Anexo 01": {
+  "version": "2026-09-29T14:47:38Z"
+ },
+ "siconfi|rreo|5221858|2026|4|RREO-Anexo 02": {
+  "version": "2026-09-29T14:47:38Z"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2018|periodo=6": {
+  "rows": 383,
+  "ingested_at": "2026-11-11T14:09:27+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2019|periodo=6": {
+  "rows": 400,
+  "ingested_at": "2026-11-11T14:09:32+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2020|periodo=6": {
+  "rows": 404,
+  "ingested_at": "2026-11-11T14:09:38+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2021|periodo=6": {
+  "rows": 411,
+  "ingested_at": "2026-11-11T14:09:43+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2022|periodo=6": {
+  "rows": 417,
+  "ingested_at": "2026-11-11T14:09:49+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2023|periodo=6": {
+  "rows": 433,
+  "ingested_at": "2026-11-11T14:09:54+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2024|periodo=6": {
+  "rows": 440,
+  "ingested_at": "2026-11-11T14:10:00+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2025|periodo=6": {
+  "rows": 414,
+  "ingested_at": "2026-11-11T14:10:05+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5200258|ano=2026|periodo=4": {
+  "rows": 405,
+  "ingested_at": "2026-11-11T14:10:11+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2016|periodo=6": {
+  "rows": 336,
+  "ingested_at": "2026-11-11T14:10:16+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2017|periodo=6": {
+  "rows": 347,
+  "ingested_at": "2026-11-11T14:10:21+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2018|periodo=6": {
+  "rows": 361,
+  "ingested_at": "2026-11-11T14:10:27+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2019|periodo=6": {
+  "rows": 358,
+  "ingested_at": "2026-11-11T14:10:32+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2020|periodo=6": {
+  "rows": 364,
+  "ingested_at": "2026-11-11T14:10:37+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2021|periodo=6": {
+  "rows": 378,
+  "ingested_at": "2026-11-11T14:10:43+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2022|periodo=6": {
+  "rows": 386,
+  "ingested_at": "2026-11-11T14:10:49+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2023|periodo=6": {
+  "rows": 388,
+  "ingested_at": "2026-11-11T14:10:54+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2024|periodo=6": {
+  "rows": 396,
+  "ingested_at": "2026-11-11T14:11:00+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2025|periodo=6": {
+  "rows": 405,
+  "ingested_at": "2026-11-11T14:11:05+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5205497|ano=2026|periodo=4": {
+  "rows": 403,
+  "ingested_at": "2026-11-11T14:11:11+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2016|periodo=6": {
+  "rows": 372,
+  "ingested_at": "2026-11-11T14:12:15+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2017|periodo=6": {
+  "rows": 342,
+  "ingested_at": "2026-11-11T14:12:20+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2018|periodo=6": {
+  "rows": 399,
+  "ingested_at": "2026-11-11T14:12:26+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2019|periodo=6": {
+  "rows": 420,
+  "ingested_at": "2026-11-11T14:12:31+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2020|periodo=6": {
+  "rows": 406,
+  "ingested_at": "2026-11-11T14:12:37+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2021|periodo=6": {
+  "rows": 378,
+  "ingested_at": "2026-11-11T14:12:42+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2022|periodo=6": {
+  "rows": 411,
+  "ingested_at": "2026-11-11T14:12:48+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2023|periodo=6": {
+  "rows": 392,
+  "ingested_at": "2026-11-11T14:12:53+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2024|periodo=6": {
+  "rows": 395,
+  "ingested_at": "2026-11-11T14:12:59+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2025|periodo=6": {
+  "rows": 403,
+  "ingested_at": "2026-11-11T14:13:04+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5208004|ano=2026|periodo=4": {
+  "rows": 380,
+  "ingested_at": "2026-11-11T14:13:10+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2016|periodo=2": {
+  "rows": 340,
+  "ingested_at": "2026-11-11T14:08:21+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2018|periodo=6": {
+  "rows": 345,
+  "ingested_at": "2026-11-11T14:08:29+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2019|periodo=6": {
+  "rows": 349,
+  "ingested_at": "2026-11-11T14:08:39+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2020|periodo=6": {
+  "rows": 350,
+  "ingested_at": "2026-11-11T14:08:44+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2021|periodo=6": {
+  "rows": 364,
+  "ingested_at": "2026-11-11T14:08:50+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2022|periodo=6": {
+  "rows": 366,
+  "ingested_at": "2026-11-11T14:08:55+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2023|periodo=6": {
+  "rows": 401,
+  "ingested_at": "2026-11-11T14:09:01+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2024|periodo=6": {
+  "rows": 379,
+  "ingested_at": "2026-11-11T14:09:07+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2025|periodo=6": {
+  "rows": 388,
+  "ingested_at": "2026-11-11T14:09:12+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5212501|ano=2026|periodo=4": {
+  "rows": 381,
+  "ingested_at": "2026-11-11T14:09:17+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2016|periodo=6": {
+  "rows": 361,
+  "ingested_at": "2026-11-11T14:11:15+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2017|periodo=6": {
+  "rows": 356,
+  "ingested_at": "2026-11-11T14:11:21+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2018|periodo=6": {
+  "rows": 353,
+  "ingested_at": "2026-11-11T14:11:26+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2019|periodo=6": {
+  "rows": 362,
+  "ingested_at": "2026-11-11T14:11:32+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2020|periodo=6": {
+  "rows": 357,
+  "ingested_at": "2026-11-11T14:11:37+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2021|periodo=6": {
+  "rows": 367,
+  "ingested_at": "2026-11-11T14:11:43+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2022|periodo=6": {
+  "rows": 345,
+  "ingested_at": "2026-11-11T14:11:48+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2023|periodo=6": {
+  "rows": 360,
+  "ingested_at": "2026-11-11T14:11:54+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2024|periodo=6": {
+  "rows": 344,
+  "ingested_at": "2026-11-11T14:11:59+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2025|periodo=6": {
+  "rows": 367,
+  "ingested_at": "2026-11-11T14:12:05+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5215231|ano=2026|periodo=4": {
+  "rows": 349,
+  "ingested_at": "2026-11-11T14:12:10+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2016|periodo=6": {
+  "rows": 358,
+  "ingested_at": "2026-11-11T14:13:14+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2017|periodo=6": {
+  "rows": 336,
+  "ingested_at": "2026-11-11T14:13:20+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2018|periodo=6": {
+  "rows": 384,
+  "ingested_at": "2026-11-11T14:13:25+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2019|periodo=6": {
+  "rows": 383,
+  "ingested_at": "2026-11-11T14:13:31+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2020|periodo=6": {
+  "rows": 396,
+  "ingested_at": "2026-11-11T14:13:36+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2021|periodo=6": {
+  "rows": 406,
+  "ingested_at": "2026-11-11T14:13:42+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2022|periodo=6": {
+  "rows": 403,
+  "ingested_at": "2026-11-11T14:13:47+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2023|periodo=6": {
+  "rows": 401,
+  "ingested_at": "2026-11-11T14:13:53+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2024|periodo=6": {
+  "rows": 405,
+  "ingested_at": "2026-11-11T14:13:58+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2025|periodo=6": {
+  "rows": 397,
+  "ingested_at": "2026-11-11T14:14:04+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5217609|ano=2026|periodo=4": {
+  "rows": 407,
+  "ingested_at": "2026-11-11T14:14:09+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2017|periodo=6": {
+  "rows": 286,
+  "ingested_at": "2026-11-11T14:14:18+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2018|periodo=6": {
+  "rows": 392,
+  "ingested_at": "2026-11-11T14:14:24+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2019|periodo=6": {
+  "rows": 399,
+  "ingested_at": "2026-11-11T14:14:29+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2020|periodo=6": {
+  "rows": 389,
+  "ingested_at": "2026-11-11T14:14:35+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2021|periodo=6": {
+  "rows": 401,
+  "ingested_at": "2026-11-11T14:14:40+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2022|periodo=6": {
+  "rows": 396,
+  "ingested_at": "2026-11-11T14:14:46+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2023|periodo=6": {
+  "rows": 381,
+  "ingested_at": "2026-11-11T14:14:51+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2024|periodo=6": {
+  "rows": 376,
+  "ingested_at": "2026-11-11T14:14:57+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2025|periodo=6": {
+  "rows": 400,
+  "ingested_at": "2026-11-11T14:15:02+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5219753|ano=2026|periodo=4": {
+  "rows": 382,
+  "ingested_at": "2026-11-11T14:15:08+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2016|periodo=6": {
+  "rows": 362,
+  "ingested_at": "2026-11-11T14:06:06+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2017|periodo=6": {
+  "rows": 364,
+  "ingested_at": "2026-11-11T14:06:12+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2018|periodo=6": {
+  "rows": 374,
+  "ingested_at": "2026-11-11T14:06:17+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2019|periodo=6": {
+  "rows": 385,
+  "ingested_at": "2026-11-11T14:07:27+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2020|periodo=6": {
+  "rows": 385,
+  "ingested_at": "2026-11-11T14:07:36+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2021|periodo=6": {
+  "rows": 364,
+  "ingested_at": "2026-11-11T14:07:45+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2022|periodo=6": {
+  "rows": 393,
+  "ingested_at": "2026-11-11T14:07:53+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2023|periodo=6": {
+  "rows": 339,
+  "ingested_at": "2026-11-11T14:07:58+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2024|periodo=6": {
+  "rows": 397,
+  "ingested_at": "2026-11-11T14:08:04+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2025|periodo=6": {
+  "rows": 389,
+  "ingested_at": "2026-11-11T14:08:11+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 01|cod_ibge=5221858|ano=2026|periodo=4": {
+  "rows": 390,
+  "ingested_at": "2026-11-11T14:08:17+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2018|periodo=6": {
+  "rows": 84,
+  "ingested_at": "2026-11-11T14:09:27+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2019|periodo=6": {
+  "rows": 887,
+  "ingested_at": "2026-11-11T14:09:33+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2020|periodo=6": {
+  "rows": 871,
+  "ingested_at": "2026-11-11T14:09:39+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2021|periodo=6": {
+  "rows": 902,
+  "ingested_at": "2026-11-11T14:09:45+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2022|periodo=6": {
+  "rows": 903,
+  "ingested_at": "2026-11-11T14:09:50+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2023|periodo=6": {
+  "rows": 938,
+  "ingested_at": "2026-11-11T14:09:56+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2024|periodo=6": {
+  "rows": 932,
+  "ingested_at": "2026-11-11T14:10:01+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2025|periodo=6": {
+  "rows": 948,
+  "ingested_at": "2026-11-11T14:10:07+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5200258|ano=2026|periodo=4": {
+  "rows": 862,
+  "ingested_at": "2026-11-11T14:10:12+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2016|periodo=6": {
+  "rows": 519,
+  "ingested_at": "2026-11-11T14:10:16+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2017|periodo=6": {
+  "rows": 560,
+  "ingested_at": "2026-11-11T14:10:22+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2018|periodo=6": {
+  "rows": 618,
+  "ingested_at": "2026-11-11T14:10:28+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2019|periodo=6": {
+  "rows": 775,
+  "ingested_at": "2026-11-11T14:10:33+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2020|periodo=6": {
+  "rows": 731,
+  "ingested_at": "2026-11-11T14:10:39+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2021|periodo=6": {
+  "rows": 753,
+  "ingested_at": "2026-11-11T14:10:45+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2022|periodo=6": {
+  "rows": 694,
+  "ingested_at": "2026-11-11T14:10:50+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2023|periodo=6": {
+  "rows": 671,
+  "ingested_at": "2026-11-11T14:10:55+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2024|periodo=6": {
+  "rows": 682,
+  "ingested_at": "2026-11-11T14:11:01+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2025|periodo=6": {
+  "rows": 719,
+  "ingested_at": "2026-11-11T14:11:07+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5205497|ano=2026|periodo=4": {
+  "rows": 735,
+  "ingested_at": "2026-11-11T14:11:12+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2016|periodo=6": {
+  "rows": 658,
+  "ingested_at": "2026-11-11T14:12:16+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2017|periodo=6": {
+  "rows": 696,
+  "ingested_at": "2026-11-11T14:12:21+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2018|periodo=6": {
+  "rows": 609,
+  "ingested_at": "2026-11-11T14:12:27+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2019|periodo=6": {
+  "rows": 663,
+  "ingested_at": "2026-11-11T14:12:32+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2020|periodo=6": {
+  "rows": 600,
+  "ingested_at": "2026-11-11T14:12:38+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2021|periodo=6": {
+  "rows": 630,
+  "ingested_at": "2026-11-11T14:12:43+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2022|periodo=6": {
+  "rows": 690,
+  "ingested_at": "2026-11-11T14:12:49+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2023|periodo=6": {
+  "rows": 685,
+  "ingested_at": "2026-11-11T14:12:55+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2024|periodo=6": {
+  "rows": 688,
+  "ingested_at": "2026-11-11T14:13:00+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2025|periodo=6": {
+  "rows": 830,
+  "ingested_at": "2026-11-11T14:13:06+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5208004|ano=2026|periodo=4": {
+  "rows": 752,
+  "ingested_at": "2026-11-11T14:13:11+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2016|periodo=2": {
+  "rows": 592,
+  "ingested_at": "2026-11-11T14:08:23+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2018|periodo=6": {
+  "rows": 703,
+  "ingested_at": "2026-11-11T14:08:30+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2019|periodo=6": {
+  "rows": 843,
+  "ingested_at": "2026-11-11T14:08:40+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2020|periodo=6": {
+  "rows": 810,
+  "ingested_at": "2026-11-11T14:08:45+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2021|periodo=6": {
+  "rows": 841,
+  "ingested_at": "2026-11-11T14:08:51+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2022|periodo=6": {
+  "rows": 603,
+  "ingested_at": "2026-11-11T14:08:57+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2023|periodo=6": {
+  "rows": 669,
+  "ingested_at": "2026-11-11T14:09:02+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2024|periodo=6": {
+  "rows": 661,
+  "ingested_at": "2026-11-11T14:09:08+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2025|periodo=6": {
+  "rows": 649,
+  "ingested_at": "2026-11-11T14:09:13+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5212501|ano=2026|periodo=4": {
+  "rows": 626,
+  "ingested_at": "2026-11-11T14:09:19+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2016|periodo=6": {
+  "rows": 529,
+  "ingested_at": "2026-11-11T14:11:16+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2017|periodo=6": {
+  "rows": 584,
+  "ingested_at": "2026-11-11T14:11:22+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2018|periodo=6": {
+  "rows": 528,
+  "ingested_at": "2026-11-11T14:11:27+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2019|periodo=6": {
+  "rows": 676,
+  "ingested_at": "2026-11-11T14:11:33+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2020|periodo=6": {
+  "rows": 674,
+  "ingested_at": "2026-11-11T14:11:38+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2021|periodo=6": {
+  "rows": 723,
+  "ingested_at": "2026-11-11T14:11:44+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2022|periodo=6": {
+  "rows": 720,
+  "ingested_at": "2026-11-11T14:11:50+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2023|periodo=6": {
+  "rows": 725,
+  "ingested_at": "2026-11-11T14:11:55+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2024|periodo=6": {
+  "rows": 706,
+  "ingested_at": "2026-11-11T14:12:00+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2025|periodo=6": {
+  "rows": 654,
+  "ingested_at": "2026-11-11T14:12:06+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5215231|ano=2026|periodo=4": {
+  "rows": 736,
+  "ingested_at": "2026-11-11T14:12:12+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2016|periodo=6": {
+  "rows": 610,
+  "ingested_at": "2026-11-11T14:13:15+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2017|periodo=6": {
+  "rows": 531,
+  "ingested_at": "2026-11-11T14:13:21+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2018|periodo=6": {
+  "rows": 613,
+  "ingested_at": "2026-11-11T14:13:26+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2019|periodo=6": {
+  "rows": 758,
+  "ingested_at": "2026-11-11T14:13:32+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2020|periodo=6": {
+  "rows": 691,
+  "ingested_at": "2026-11-11T14:13:37+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2021|periodo=6": {
+  "rows": 741,
+  "ingested_at": "2026-11-11T14:13:43+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2022|periodo=6": {
+  "rows": 642,
+  "ingested_at": "2026-11-11T14:13:49+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2023|periodo=6": {
+  "rows": 719,
+  "ingested_at": "2026-11-11T14:13:54+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2024|periodo=6": {
+  "rows": 649,
+  "ingested_at": "2026-11-11T14:14:00+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2025|periodo=6": {
+  "rows": 773,
+  "ingested_at": "2026-11-11T14:14:05+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5217609|ano=2026|periodo=4": {
+  "rows": 782,
+  "ingested_at": "2026-11-11T14:14:11+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2017|periodo=6": {
+  "rows": 736,
+  "ingested_at": "2026-11-11T14:14:19+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2018|periodo=6": {
+  "rows": 772,
+  "ingested_at": "2026-11-11T14:14:25+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2019|periodo=6": {
+  "rows": 838,
+  "ingested_at": "2026-11-11T14:14:30+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2020|periodo=6": {
+  "rows": 745,
+  "ingested_at": "2026-11-11T14:14:36+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2021|periodo=6": {
+  "rows": 833,
+  "ingested_at": "2026-11-11T14:14:42+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2022|periodo=6": {
+  "rows": 765,
+  "ingested_at": "2026-11-11T14:14:47+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2023|periodo=6": {
+  "rows": 736,
+  "ingested_at": "2026-11-11T14:14:53+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2024|periodo=6": {
+  "rows": 733,
+  "ingested_at": "2026-11-11T14:14:58+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2025|periodo=6": {
+  "rows": 791,
+  "ingested_at": "2026-11-11T14:15:04+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5219753|ano=2026|periodo=4": {
+  "rows": 869,
+  "ingested_at": "2026-11-11T14:15:09+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2016|periodo=6": {
+  "rows": 84,
+  "ingested_at": "2026-11-11T14:06:07+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2017|periodo=6": {
+  "rows": 390,
+  "ingested_at": "2026-11-11T14:06:13+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2018|periodo=6": {
+  "rows": 757,
+  "ingested_at": "2026-11-11T14:06:18+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2019|periodo=6": {
+  "rows": 736,
+  "ingested_at": "2026-11-11T14:07:28+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2020|periodo=6": {
+  "rows": 723,
+  "ingested_at": "2026-11-11T14:07:37+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2021|periodo=6": {
+  "rows": 728,
+  "ingested_at": "2026-11-11T14:07:47+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2022|periodo=6": {
+  "rows": 647,
+  "ingested_at": "2026-11-11T14:07:54+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2023|periodo=6": {
+  "rows": 619,
+  "ingested_at": "2026-11-11T14:08:00+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2024|periodo=6": {
+  "rows": 688,
+  "ingested_at": "2026-11-11T14:08:05+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2025|periodo=6": {
+  "rows": 707,
+  "ingested_at": "2026-11-11T14:08:13+00:00"
+ },
+ "siconfi|rreo|anexo=RREO-Anexo 02|cod_ibge=5221858|ano=2026|periodo=4": {
+  "rows": 747,
+  "ingested_at": "2026-11-11T14:08:18+00:00"
+ }
+}
