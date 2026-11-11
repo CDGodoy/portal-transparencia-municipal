@@ -14,7 +14,7 @@ from . import config
 from .bronze import BronzeStore
 from .http import ApiClient
 from .sources.bcb import ingest_ipca
-from .sources.pncp import PncpIngestor
+from .sources.pncp import PncpIndisponivel, PncpIngestor
 from .sources.siconfi import SiconfiIngestor
 
 app = typer.Typer(help="Pipeline do Portal de Transparência Municipal", no_args_is_help=True)
@@ -46,6 +46,9 @@ def ingest(
     municipio: Annotated[list[int] | None, typer.Option(help="Código IBGE (repetível)")] = None,
     ano_inicial: Annotated[int, typer.Option()] = config.ANO_INICIAL,
     force: Annotated[bool, typer.Option(help="Ignora o manifesto e baixa tudo")] = False,
+    tempo_max_pncp: Annotated[
+        float, typer.Option(help="Orçamento de tempo do PNCP em minutos (0 = sem limite)")
+    ] = 0,
     verbose: Annotated[bool, typer.Option("--verbose", "-v")] = False,
 ) -> None:
     """Extrai dados das APIs públicas para a camada bronze (incremental)."""
@@ -79,15 +82,29 @@ def ingest(
             log.info("SICONFI: %s", sic.summary)
 
         if "pncp" in fontes_sel:
-            pn = PncpIngestor(client, store, ano_corrente=ano_atual, force=force)
-            for mun in municipios:
-                for ano in range(max(ano_inicial, config.ANO_INICIAL_PNCP), ano_atual + 1):
-                    try:
-                        pn.ingest_municipio_ano(mun, ano)
-                    except Exception as exc:  # noqa: BLE001
-                        falhas.append(f"pncp/{mun.cod_ibge}/{ano}: {exc}")
-                        log.error("PNCP %s %s falhou: %s", mun.nome, ano, exc)
-                store.save()
+            prazo = time.monotonic() + tempo_max_pncp * 60 if tempo_max_pncp else None
+            # O PNCP falha com frequência: menos tentativas por chamada e disjuntor por execução.
+            with ApiClient(max_attempts=3) as pncp_client:
+                pn = PncpIngestor(
+                    pncp_client, store, ano_corrente=ano_atual, force=force, prazo=prazo
+                )
+                anos = range(ano_atual, max(ano_inicial, config.ANO_INICIAL_PNCP) - 1, -1)
+                try:
+                    for mun in municipios:
+                        for ano in anos:  # mais recente primeiro
+                            if pn.tempo_esgotado():
+                                break
+                            pn.ingest_municipio_ano(mun, ano)
+                        store.save()
+                except PncpIndisponivel as exc:
+                    falhas.append(f"pncp: {exc}")
+                    log.error("%s", exc)
+                if pn.tempo_esgotado():
+                    log.warning(
+                        "Orçamento de tempo do PNCP esgotado; continua na próxima execução."
+                    )
+                client.stats["requests"] += pncp_client.stats["requests"]
+                client.stats["retries"] += pncp_client.stats["retries"]
             log.info("PNCP: %s", pn.summary)
 
         store.save()

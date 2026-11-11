@@ -82,9 +82,13 @@ foi **retificado**. Uma execução típica cai de centenas para poucas dezenas d
 
 ### 2. Resiliência a APIs instáveis
 Todas as chamadas passam por um cliente com **retry exponencial com jitter** (429/5xx/timeouts),
-**throttle por host** e timeouts longos (o PNCP leva até 40 s por página). Falhas parciais são
-registradas e não derrubam o pipeline: os dados anteriores continuam válidos.
-(`src/portal_etl/http.py`)
+**throttle por host** e timeouts longos. Falhas parciais são registradas e não derrubam o
+pipeline: os dados anteriores continuam válidos. (`src/portal_etl/http.py`)
+
+O PNCP merece tratamento próprio: consultas de um ano inteiro devolvem 500/504. O coletor usa
+**janelas mensais** (cada mês é uma partição, então o progresso é salvo mês a mês), um
+**disjuntor** que abandona a fonte após falhas seguidas e um **orçamento de tempo** por execução.
+O que não couber numa execução entra na próxima. (`src/portal_etl/sources/pncp.py`)
 
 ### 3. Mudança de layout dos relatórios (*schema drift*)
 Os relatórios fiscais mudam de formato ao longo dos anos. Exemplos tratados:

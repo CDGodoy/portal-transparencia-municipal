@@ -25,7 +25,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 110
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -39,12 +39,20 @@ jobs:
           cache-dependency-path: site/package-lock.json
       - run: pip install -e .
 
-      - name: Ingestão (SICONFI, PNCP, BCB)
+      - name: Ingestão SICONFI e IPCA
         if: github.event_name != 'push'
-        run: portal ingest ${{ inputs.force && '--force' || '' }}
+        run: portal ingest --fontes siconfi,bcb ${{ inputs.force && '--force' || '' }}
+
+      # A API do PNCP é lenta e instável: passo separado, com orçamento de tempo e sem
+      # derrubar o pipeline. O que não couber nesta execução é coletado na próxima.
+      - name: Ingestão PNCP (contratos)
+        if: github.event_name != 'push'
+        continue-on-error: true
+        timeout-minutes: 50
+        run: portal ingest --fontes pncp --tempo-max-pncp 40
 
       - name: Versiona a camada bronze
-        if: github.event_name != 'push'
+        if: always() && github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
