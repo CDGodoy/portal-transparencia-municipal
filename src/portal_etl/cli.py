@@ -84,7 +84,7 @@ def ingest(
         if "pncp" in fontes_sel:
             prazo = time.monotonic() + tempo_max_pncp * 60 if tempo_max_pncp else None
             # O PNCP falha com frequência: menos tentativas por chamada e disjuntor por execução.
-            with ApiClient(max_attempts=3) as pncp_client:
+            with ApiClient(max_attempts=4) as pncp_client:
                 pn = PncpIngestor(
                     pncp_client, store, ano_corrente=ano_atual, force=force, prazo=prazo
                 )

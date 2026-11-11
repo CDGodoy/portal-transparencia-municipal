@@ -33,7 +33,7 @@ USER_AGENT = (
 # requisições por segundo; o PNCP é lento e sensível a rajadas.
 DEFAULT_THROTTLE = {
     "apidatalake.tesouro.gov.br": 1.1,
-    "pncp.gov.br": 0.6,
+    "pncp.gov.br": 2.0,
     "api.bcb.gov.br": 0.3,
 }
 

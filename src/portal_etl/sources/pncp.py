@@ -29,6 +29,7 @@ log = logging.getLogger("portal_etl.pncp")
 BASE_URL = "https://pncp.gov.br/api/consulta/v1/contratos"
 PAGE_SIZE = 50  # páginas pequenas respondem mais rápido e falham menos
 MESES_REABERTOS = 2  # meses recentes sempre re-consultados (publicações atrasadas/retificações)
+PAUSA_429 = 60  # segundos de espera quando o PNCP sinaliza excesso de requisições
 
 
 class PncpIndisponivel(Exception):
@@ -103,6 +104,10 @@ class PncpIngestor:
             self.falhas_seguidas += 1
             self.summary["falhas"] += 1
             log.warning("PNCP %s %s falhou: %s", mun.nome, inicio.strftime("%Y-%m"), exc)
+            if "429" in str(exc):
+                # Limite de requisições: pausa longa antes de seguir (não conta como queda).
+                time.sleep(PAUSA_429)
+                self.falhas_seguidas -= 1
             if self.falhas_seguidas >= self.max_falhas_seguidas:
                 raise PncpIndisponivel(
                     f"{self.falhas_seguidas} falhas seguidas no PNCP; tentando de novo na "
