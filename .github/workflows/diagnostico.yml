@@ -1,0 +1,24 @@
+name: Diagnóstico das APIs
+
+# Verifica rapidamente se as APIs públicas respondem a partir do runner do GitHub.
+on:
+  workflow_dispatch:
+
+jobs:
+  apis:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Testa conectividade e latência
+        run: |
+          check() {
+            echo "::group::$1"
+            curl -sS -o /tmp/out -w "HTTP %{http_code} em %{time_total}s (%{size_download} bytes)\n" \
+              --max-time 90 "$2" || echo "FALHOU"
+            head -c 300 /tmp/out 2>/dev/null; echo
+            echo "::endgroup::"
+          }
+          check "SICONFI extrato" "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/extrato_entregas?id_ente=5221858&an_referencia=2024"
+          check "SICONFI RREO" "https://apidatalake.tesouro.gov.br/ords/siconfi/tt/rreo?an_exercicio=2024&nr_periodo=6&co_tipo_demonstrativo=RREO&no_anexo=RREO-Anexo%2001&co_esfera=M&id_ente=5221858"
+          check "PNCP contratos" "https://pncp.gov.br/api/consulta/v1/contratos?dataInicial=20250101&dataFinal=20251231&cnpjOrgao=01616319000109&pagina=1&tamanhoPagina=10"
+          check "BCB IPCA" "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados/ultimos/3?formato=json"
