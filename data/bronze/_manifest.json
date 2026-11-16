@@ -1,7 +1,7 @@
 {
  "bcb|ipca|serie=433": {
-  "rows": 141,
-  "ingested_at": "2026-11-11T14:06:04+00:00"
+  "rows": 142,
+  "ingested_at": "2026-11-16T19:36:47+00:00"
  },
  "pncp|contratos|cod_ibge=5200258|ano_publicacao=2023|mes=1": {
   "rows": 0,
@@ -153,11 +153,11 @@
  },
  "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=10": {
   "rows": 11,
-  "ingested_at": "2026-11-11T14:30:05+00:00"
+  "ingested_at": "2026-11-16T19:40:46+00:00"
  },
  "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=11": {
   "rows": 0,
-  "ingested_at": "2026-11-11T14:29:54+00:00"
+  "ingested_at": "2026-11-16T19:40:25+00:00"
  },
  "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=2": {
   "rows": 0,
@@ -185,11 +185,11 @@
  },
  "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=8": {
   "rows": 16,
-  "ingested_at": "2026-11-11T14:30:31+00:00"
+  "ingested_at": "2026-11-16T19:41:11+00:00"
  },
  "pncp|contratos|cod_ibge=5200258|ano_publicacao=2026|mes=9": {
   "rows": 0,
-  "ingested_at": "2026-11-11T14:30:13+00:00"
+  "ingested_at": "2026-11-16T19:40:58+00:00"
  },
  "pncp|contratos|cod_ibge=5205497|ano_publicacao=2023|mes=1": {
   "rows": 0,
@@ -341,11 +341,11 @@
  },
  "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=10": {
   "rows": 32,
-  "ingested_at": "2026-11-11T14:38:44+00:00"
+  "ingested_at": "2026-11-16T19:41:47+00:00"
  },
  "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=11": {
-  "rows": 1,
-  "ingested_at": "2026-11-11T14:38:26+00:00"
+  "rows": 3,
+  "ingested_at": "2026-11-16T19:41:31+00:00"
  },
  "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=2": {
   "rows": 98,
@@ -373,19 +373,179 @@
  },
  "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=8": {
   "rows": 36,
-  "ingested_at": "2026-11-11T14:39:15+00:00"
+  "ingested_at": "2026-11-16T19:42:33+00:00"
  },
  "pncp|contratos|cod_ibge=5205497|ano_publicacao=2026|mes=9": {
   "rows": 56,
-  "ingested_at": "2026-11-11T14:39:01+00:00"
+  "ingested_at": "2026-11-16T19:42:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:52:22+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:22+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:16+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:52:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:52:10+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:52:04+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:59+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:53+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:45+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=8": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:39+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2023|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:09+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=10": {
+  "rows": 18,
+  "ingested_at": "2026-11-16T19:49:35+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=11": {
+  "rows": 4,
+  "ingested_at": "2026-11-16T19:49:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=12": {
+  "rows": 4,
+  "ingested_at": "2026-11-16T19:49:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:51:01+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:50:50+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:50:44+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=5": {
+  "rows": 3,
+  "ingested_at": "2026-11-16T19:50:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=6": {
+  "rows": 10,
+  "ingested_at": "2026-11-16T19:50:29+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=7": {
+  "rows": 19,
+  "ingested_at": "2026-11-16T19:50:16+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=8": {
+  "rows": 8,
+  "ingested_at": "2026-11-16T19:50:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2024|mes=9": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:49:49+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=1": {
+  "rows": 4,
+  "ingested_at": "2026-11-16T19:49:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=10": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:46:43+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=11": {
+  "rows": 3,
+  "ingested_at": "2026-11-16T19:46:28+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=12": {
+  "rows": 3,
+  "ingested_at": "2026-11-16T19:46:09+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=2": {
+  "rows": 3,
+  "ingested_at": "2026-11-16T19:48:46+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:48:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=4": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:48:23+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=5": {
+  "rows": 6,
+  "ingested_at": "2026-11-16T19:48:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=6": {
+  "rows": 17,
+  "ingested_at": "2026-11-16T19:47:43+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=7": {
+  "rows": 20,
+  "ingested_at": "2026-11-16T19:47:34+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=8": {
+  "rows": 7,
+  "ingested_at": "2026-11-16T19:47:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2025|mes=9": {
+  "rows": 6,
+  "ingested_at": "2026-11-16T19:46:55+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=1": {
+  "rows": 5,
+  "ingested_at": "2026-11-16T19:45:49+00:00"
  },
  "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=10": {
   "rows": 5,
-  "ingested_at": "2026-11-11T14:54:10+00:00"
+  "ingested_at": "2026-11-16T19:44:15+00:00"
  },
  "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=11": {
   "rows": 0,
-  "ingested_at": "2026-11-11T14:53:57+00:00"
+  "ingested_at": "2026-11-16T19:44:00+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=2": {
+  "rows": 12,
+  "ingested_at": "2026-11-16T19:45:33+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=3": {
+  "rows": 6,
+  "ingested_at": "2026-11-16T19:45:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=4": {
+  "rows": 6,
+  "ingested_at": "2026-11-16T19:44:59+00:00"
  },
  "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=5": {
   "rows": 9,
@@ -401,11 +561,11 @@
  },
  "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=8": {
   "rows": 9,
-  "ingested_at": "2026-11-11T14:54:46+00:00"
+  "ingested_at": "2026-11-16T19:44:48+00:00"
  },
  "pncp|contratos|cod_ibge=5208004|ano_publicacao=2026|mes=9": {
   "rows": 3,
-  "ingested_at": "2026-11-11T14:54:30+00:00"
+  "ingested_at": "2026-11-16T19:44:31+00:00"
  },
  "pncp|contratos|cod_ibge=5212501|ano_publicacao=2023|mes=1": {
   "rows": 0,
@@ -557,11 +717,11 @@
  },
  "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=10": {
   "rows": 10,
-  "ingested_at": "2026-11-11T14:23:18+00:00"
+  "ingested_at": "2026-11-16T19:39:50+00:00"
  },
  "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=11": {
-  "rows": 1,
-  "ingested_at": "2026-11-11T14:23:03+00:00"
+  "rows": 2,
+  "ingested_at": "2026-11-16T19:39:36+00:00"
  },
  "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=2": {
   "rows": 5,
@@ -589,11 +749,11 @@
  },
  "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=8": {
   "rows": 5,
-  "ingested_at": "2026-11-11T14:23:48+00:00"
+  "ingested_at": "2026-11-16T19:40:19+00:00"
  },
  "pncp|contratos|cod_ibge=5212501|ano_publicacao=2026|mes=9": {
   "rows": 3,
-  "ingested_at": "2026-11-11T14:23:31+00:00"
+  "ingested_at": "2026-11-16T19:40:04+00:00"
  },
  "pncp|contratos|cod_ibge=5215231|ano_publicacao=2023|mes=1": {
   "rows": 0,
@@ -745,11 +905,11 @@
  },
  "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=10": {
   "rows": 6,
-  "ingested_at": "2026-11-11T14:46:44+00:00"
+  "ingested_at": "2026-11-16T19:43:06+00:00"
  },
  "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=11": {
-  "rows": 0,
-  "ingested_at": "2026-11-11T14:46:26+00:00"
+  "rows": 2,
+  "ingested_at": "2026-11-16T19:42:47+00:00"
  },
  "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=2": {
   "rows": 1,
@@ -777,11 +937,387 @@
  },
  "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=8": {
   "rows": 4,
-  "ingested_at": "2026-11-11T14:47:08+00:00"
+  "ingested_at": "2026-11-16T19:43:56+00:00"
  },
  "pncp|contratos|cod_ibge=5215231|ano_publicacao=2026|mes=9": {
   "rows": 5,
-  "ingested_at": "2026-11-11T14:46:56+00:00"
+  "ingested_at": "2026-11-16T19:43:26+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:59:00+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=10": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:58:11+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:57:59+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:57:56+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:58:57+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:58:54+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:58:51+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=5": {
+  "rows": 2,
+  "ingested_at": "2026-11-16T19:58:48+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=6": {
+  "rows": 6,
+  "ingested_at": "2026-11-16T19:58:38+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=7": {
+  "rows": 4,
+  "ingested_at": "2026-11-16T19:58:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=8": {
+  "rows": 3,
+  "ingested_at": "2026-11-16T19:58:25+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2023|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:58:16+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:57:52+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:56:32+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:56:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:56:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=2": {
+  "rows": 5,
+  "ingested_at": "2026-11-16T19:57:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=3": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:57:36+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:57:26+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:57:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=6": {
+  "rows": 5,
+  "ingested_at": "2026-11-16T19:57:14+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:57:01+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=8": {
+  "rows": 3,
+  "ingested_at": "2026-11-16T19:56:56+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2024|mes=9": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:56:46+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:56:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:54:35+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:54:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:54:21+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=2": {
+  "rows": 5,
+  "ingested_at": "2026-11-16T19:56:05+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:55:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:55:42+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=5": {
+  "rows": 2,
+  "ingested_at": "2026-11-16T19:55:34+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:55:18+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:55:12+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=8": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:55:04+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2025|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:54:47+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:54:15+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=10": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:52:44+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:52:30+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=2": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:54:10+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=3": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:53:55+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=4": {
+  "rows": 2,
+  "ingested_at": "2026-11-16T19:53:40+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:53:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:53:18+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:53:10+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=8": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T19:53:05+00:00"
+ },
+ "pncp|contratos|cod_ibge=5217609|ano_publicacao=2026|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T19:52:48+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:09:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=10": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:25+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=11": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:17+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=12": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:15+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:09:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:59+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=4": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:54+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:50+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=6": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:45+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=7": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:39+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=8": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:35+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2023|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:28+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=1": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:10+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=10": {
+  "rows": 19,
+  "ingested_at": "2026-11-16T20:06:55+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=11": {
+  "rows": 13,
+  "ingested_at": "2026-11-16T20:06:43+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=12": {
+  "rows": 20,
+  "ingested_at": "2026-11-16T20:06:31+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=2": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:08:03+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=3": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:07:59+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=4": {
+  "rows": 3,
+  "ingested_at": "2026-11-16T20:07:54+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=5": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:07:40+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=6": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T20:07:36+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=7": {
+  "rows": 14,
+  "ingested_at": "2026-11-16T20:07:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=8": {
+  "rows": 1,
+  "ingested_at": "2026-11-16T20:07:13+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2024|mes=9": {
+  "rows": 0,
+  "ingested_at": "2026-11-16T20:07:02+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=1": {
+  "rows": 8,
+  "ingested_at": "2026-11-16T20:06:12+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=10": {
+  "rows": 11,
+  "ingested_at": "2026-11-16T20:03:45+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=11": {
+  "rows": 15,
+  "ingested_at": "2026-11-16T20:03:28+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=12": {
+  "rows": 2,
+  "ingested_at": "2026-11-16T20:03:07+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=2": {
+  "rows": 2,
+  "ingested_at": "2026-11-16T20:05:53+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=3": {
+  "rows": 2,
+  "ingested_at": "2026-11-16T20:05:37+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=4": {
+  "rows": 8,
+  "ingested_at": "2026-11-16T20:05:20+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=5": {
+  "rows": 37,
+  "ingested_at": "2026-11-16T20:05:06+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=6": {
+  "rows": 17,
+  "ingested_at": "2026-11-16T20:04:50+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=7": {
+  "rows": 14,
+  "ingested_at": "2026-11-16T20:04:39+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=8": {
+  "rows": 18,
+  "ingested_at": "2026-11-16T20:04:27+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2025|mes=9": {
+  "rows": 4,
+  "ingested_at": "2026-11-16T20:04:08+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=1": {
+  "rows": 5,
+  "ingested_at": "2026-11-16T20:02:48+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=10": {
+  "rows": 16,
+  "ingested_at": "2026-11-16T19:59:30+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=11": {
+  "rows": 2,
+  "ingested_at": "2026-11-16T19:59:11+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=2": {
+  "rows": 13,
+  "ingested_at": "2026-11-16T20:02:30+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=3": {
+  "rows": 3,
+  "ingested_at": "2026-11-16T20:02:10+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=4": {
+  "rows": 5,
+  "ingested_at": "2026-11-16T20:01:34+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=5": {
+  "rows": 9,
+  "ingested_at": "2026-11-16T20:00:59+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=6": {
+  "rows": 11,
+  "ingested_at": "2026-11-16T20:00:36+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=7": {
+  "rows": 12,
+  "ingested_at": "2026-11-16T20:00:11+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=8": {
+  "rows": 10,
+  "ingested_at": "2026-11-16T19:59:56+00:00"
+ },
+ "pncp|contratos|cod_ibge=5219753|ano_publicacao=2026|mes=9": {
+  "rows": 10,
+  "ingested_at": "2026-11-16T19:59:44+00:00"
  },
  "pncp|contratos|cod_ibge=5221858|ano_publicacao=2023|mes=1": {
   "rows": 4,
@@ -933,11 +1469,11 @@
  },
  "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=10": {
   "rows": 16,
-  "ingested_at": "2026-11-11T14:15:36+00:00"
+  "ingested_at": "2026-11-16T19:38:53+00:00"
  },
  "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=11": {
-  "rows": 5,
-  "ingested_at": "2026-11-11T14:15:20+00:00"
+  "rows": 10,
+  "ingested_at": "2026-11-16T19:38:36+00:00"
  },
  "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=2": {
   "rows": 9,
@@ -965,11 +1501,11 @@
  },
  "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=8": {
   "rows": 16,
-  "ingested_at": "2026-11-11T14:16:08+00:00"
+  "ingested_at": "2026-11-16T19:39:25+00:00"
  },
  "pncp|contratos|cod_ibge=5221858|ano_publicacao=2026|mes=9": {
   "rows": 4,
-  "ingested_at": "2026-11-11T14:15:50+00:00"
+  "ingested_at": "2026-11-16T19:39:09+00:00"
  },
  "siconfi|dca|5200258|2016|DCA-Anexo I-E": {
   "version": "2017-05-22T22:35:18Z"
